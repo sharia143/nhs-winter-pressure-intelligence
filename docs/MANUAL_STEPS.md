@@ -68,7 +68,7 @@ Then: `git add docs/screenshots && git commit -m "Defect evidence pack" && git p
 
 The repo is created and pushed automatically. Your remaining polish:
 
-1. Visit `https://github.com/sharia143/nhs-winter-pressure` → check the
+1. Visit `https://github.com/sharia143/nhs-winter-pressure-intelligence` → check the
    README renders, screenshots show.
 2. Repo **Settings ▸ General**: add topics `nhs`, `data-engineering`,
    `forecasting`, `power-bi`, `duckdb` (About panel → gear icon).
