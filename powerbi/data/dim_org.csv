@@ -1,0 +1,672 @@
+﻿org_code,org_name,org_type,postcode,region_name,is_current,first_month_seen,last_month_seen,months_type1,is_type1_provider,icb_code,icb_name,icb_code_2022,icb_name_2022
+RBQ,LIVERPOOL HEART AND CHEST HOSPITAL NHS FOUNDATION TRUST,NHS Trust,L14 3PE,North West,true,202104,202606,0,false,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+RTF,NORTHUMBRIA HEALTHCARE NHS FOUNDATION TRUST,NHS Trust,NE29 8NH,North East and Yorkshire,true,202104,202606,63,true,QHM,NHS North East And North Cumbria Integrated Care Board,QHM,NHS North East And North Cumbria Integrated Care Board
+RD8,MILTON KEYNES UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,NHS Trust,MK6 5LD,East of England,true,202104,202606,63,true,QHG,"NHS Bedfordshire, Luton And Milton Keynes Integrated Care Board",QHG,"NHS Bedfordshire, Luton And Milton Keynes Integrated Care Board"
+RAL,ROYAL FREE LONDON NHS FOUNDATION TRUST,NHS Trust,NW3 2QG,London,true,202104,202606,63,true,QMJ,NHS North Central London Integrated Care Board,QMJ,NHS North Central London Integrated Care Board
+RDU,FRIMLEY HEALTH NHS FOUNDATION TRUST,NHS Trust,GU16 7UJ,South East,true,202104,202606,63,true,QNQ,NHS Frimley Integrated Care Board,QNQ,NHS Frimley Integrated Care Board
+DJV01,HERNE BAY HEALTH CARE LTD,Other provider,,South East Commissioning Region,,202507,202606,0,false,QKS,NHS Kent And Medway Integrated Care Board,,
+RVW,NORTH TEES AND HARTLEPOOL NHS FOUNDATION TRUST,NHS Trust,TS24 9AH,North East and Yorkshire,true,202104,202606,63,true,QHM,NHS North East And North Cumbria Integrated Care Board,QHM,NHS North East And North Cumbria Integrated Care Board
+RR7,GATESHEAD HEALTH NHS FOUNDATION TRUST,NHS Trust,NE9 6SX,North East and Yorkshire,true,202104,202606,63,true,QHM,NHS North East And North Cumbria Integrated Care Board,QHM,NHS North East And North Cumbria Integrated Care Board
+RWY,CALDERDALE AND HUDDERSFIELD NHS FOUNDATION TRUST,NHS Trust,HD3 3EA,North East and Yorkshire,true,202104,202606,63,true,QWO,NHS West Yorkshire Integrated Care Board,QWO,NHS West Yorkshire Integrated Care Board
+RAS,THE HILLINGDON HOSPITALS NHS FOUNDATION TRUST,NHS Trust,UB8 3NN,London,true,202104,202606,63,true,QRV,NHS North West London Integrated Care Board,QRV,NHS North West London Integrated Care Board
+RHQ,SHEFFIELD TEACHING HOSPITALS NHS FOUNDATION TRUST,NHS Trust,S5 7AU,North East and Yorkshire,true,202104,202606,63,true,QF7,NHS South Yorkshire Integrated Care Board,QF7,NHS South Yorkshire Integrated Care Board
+RJL,NORTHERN LINCOLNSHIRE AND GOOLE NHS FOUNDATION TRUST,NHS Trust,DN33 2BA,North East and Yorkshire,true,202104,202606,63,true,QOQ,NHS Humber And North Yorkshire Integrated Care Board,QOQ,NHS Humber And North Yorkshire Integrated Care Board
+RC9,BEDFORDSHIRE HOSPITALS NHS FOUNDATION TRUST,NHS Trust,LU4 0DZ,East of England,true,202104,202606,63,true,QHG,"NHS Bedfordshire, Luton And Milton Keynes Integrated Care Board",QHG,"NHS Bedfordshire, Luton And Milton Keynes Integrated Care Board"
+RRV,UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST,NHS Trust,NW1 2PG,London,true,202104,202606,63,true,QMJ,NHS North Central London Integrated Care Board,QMJ,NHS North Central London Integrated Care Board
+RWH,EAST AND NORTH HERTFORDSHIRE TEACHING NHS TRUST,NHS Trust,SG1 4AB,East of England,true,202104,202606,63,true,QM7,NHS Hertfordshire And West Essex Integrated Care Board,QM7,NHS Hertfordshire And West Essex Integrated Care Board
+RXP,COUNTY DURHAM AND DARLINGTON NHS FOUNDATION TRUST,NHS Trust,DL3 6HX,North East and Yorkshire,true,202104,202606,63,true,QHM,NHS North East And North Cumbria Integrated Care Board,QHM,NHS North East And North Cumbria Integrated Care Board
+RGR,WEST SUFFOLK NHS FOUNDATION TRUST,NHS Trust,IP33 2QZ,East of England,true,202104,202606,63,true,QJG,NHS Suffolk And North East Essex Integrated Care Board,QJG,NHS Suffolk And North East Essex Integrated Care Board
+RNA,THE DUDLEY GROUP NHS FOUNDATION TRUST,NHS Trust,DY1 2HQ,Midlands,true,202104,202606,63,true,QUA,NHS Black Country Integrated Care Board,QUA,NHS Black Country Integrated Care Board
+RYG,COVENTRY AND WARWICKSHIRE PARTNERSHIP NHS TRUST,NHS Trust,CV6 6NY,Midlands,true,202104,202606,0,false,QWU,NHS Coventry And Warwickshire Integrated Care Board,QWU,NHS Coventry And Warwickshire Integrated Care Board
+RMC,BOLTON NHS FOUNDATION TRUST,NHS Trust,BL4 0JR,North West,true,202104,202606,63,true,QOP,NHS Greater Manchester Integrated Care Board,QOP,NHS Greater Manchester Integrated Care Board
+RPA,MEDWAY NHS FOUNDATION TRUST,NHS Trust,ME7 5NY,South East,true,202104,202606,63,true,QKS,NHS Kent And Medway Integrated Care Board,QKS,NHS Kent And Medway Integrated Care Board
+RHM,UNIVERSITY HOSPITAL SOUTHAMPTON NHS FOUNDATION TRUST,NHS Trust,SO16 6YD,South East,true,202104,202606,63,true,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board
+AQN04,PHL LYMINGTON UTC,Other provider,,South East Commissioning Region,,202104,202606,0,false,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board
+NQTE4,SUMMERFIELD URGENT CARE CENTRE,Other provider,,Midlands Commissioning Region,,202105,202603,0,false,QUA,NHS Black Country Integrated Care Board,QUA,NHS Black Country Integrated Care Board
+RHU,PORTSMOUTH HOSPITALS UNIVERSITY NHS TRUST,NHS Trust,PO6 3LY,South East,true,202104,202606,63,true,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board
+RN5,HAMPSHIRE HOSPITALS NHS FOUNDATION TRUST,NHS Trust,RG24 9NA,South East,true,202104,202606,63,true,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board
+RA7,BRISTOL NHS FOUNDATION TRUST,NHS Trust,BS1 3NU,South West,true,202104,202606,63,true,QUY,"NHS Bristol, North Somerset And South Gloucestershire Integrated Care Board",QUY,"NHS Bristol, North Somerset And South Gloucestershire Integrated Care Board"
+RXN,LANCASHIRE TEACHING HOSPITALS NHS FOUNDATION TRUST,NHS Trust,PR2 9HT,North West,true,202104,202606,63,true,QE1,NHS Lancashire And South Cumbria Integrated Care Board,QE1,NHS Lancashire And South Cumbria Integrated Care Board
+RN3,GREAT WESTERN HOSPITALS NHS FOUNDATION TRUST,NHS Trust,SN3 6BB,South West,true,202104,202606,63,true,QOX,"NHS Bath And North East Somerset, Swindon And Wiltshire Integrated Care Board",QOX,"NHS Bath And North East Somerset, Swindon And Wiltshire Integrated Care Board"
+RNS,NORTHAMPTON GENERAL HOSPITAL NHS TRUST,NHS Trust,NN1 5BD,Midlands,true,202104,202606,63,true,QPM,NHS Northamptonshire Integrated Care Board,QPM,NHS Northamptonshire Integrated Care Board
+RWX,BERKSHIRE HEALTHCARE NHS FOUNDATION TRUST,NHS Trust,RG12 2UT,South East,true,202104,202606,0,false,QU9,"NHS Buckinghamshire, Oxfordshire And Berkshire West Integrated Care Board",QU9,"NHS Buckinghamshire, Oxfordshire And Berkshire West Integrated Care Board"
+RCF,AIREDALE NHS FOUNDATION TRUST,NHS Trust,BD20 6TD,North East and Yorkshire,true,202104,202606,63,true,QWO,NHS West Yorkshire Integrated Care Board,QWO,NHS West Yorkshire Integrated Care Board
+RXL,BLACKPOOL TEACHING HOSPITALS NHS FOUNDATION TRUST,NHS Trust,FY3 8NR,North West,true,202104,202606,63,true,QE1,NHS Lancashire And South Cumbria Integrated Care Board,QE1,NHS Lancashire And South Cumbria Integrated Care Board
+Y02615,SOUTH BIRMINGHAM GP WALK IN CENTRE,Other provider,,Midlands Commissioning Region,,202104,202603,0,false,QHL,NHS Birmingham And Solihull Integrated Care Board,QHL,NHS Birmingham And Solihull Integrated Care Board
+Y02676,BRIGHTON STATION HEALTH CENTRE,Other provider,,South East Commissioning Region,,202104,202606,0,false,QNX,NHS Sussex Integrated Care Board,QNX,NHS Sussex Integrated Care Board
+NTPAD,PRACTICE PLUS GROUP SURGICAL CENTRE - ST MARYS PORTSMOUTH,Other provider,,South East Commissioning Region,,202104,202606,0,false,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board
+A5D4Q,NEMS CBS (UTC),Other provider,,Midlands Commissioning Region,,202503,202509,0,false,QT1,NHS Nottingham And Nottinghamshire Integrated Care Board,,
+M85813,BIRMINGHAM WIC,Other provider,,NHS ENGLAND MIDLANDS,,202104,202203,0,false,,,,
+Y02961,SUMMERFIELD GP SURG & URGENT CARE CENTRE,Other provider,,NHS ENGLAND MIDLANDS,,202104,202104,0,false,,,,
+NQ108,CLACTON HOSPITAL,Other provider,,NHS ENGLAND EAST OF ENGLAND,,202105,202108,0,false,,,,
+C82010,OAKHAM MEDICAL PRACTICE,Other provider,,NHS ENGLAND MIDLANDS,,202104,202212,0,false,,,,
+Y07709,READING URGENT CARE CENTRE,Other provider,,NHS ENGLAND SOUTH EAST,,202403,202506,0,false,,,,
+RDY,DORSET HEALTHCARE UNIVERSITY NHS FOUNDATION TRUST,NHS Trust,BH17 0RB,South West,true,202104,202606,0,false,QVV,NHS Dorset Integrated Care Board,QVV,NHS Dorset Integrated Care Board
+RJC,SOUTH WARWICKSHIRE UNIVERSITY NHS FOUNDATION TRUST,NHS Trust,CV34 5BW,Midlands,true,202104,202606,63,true,QWU,NHS Coventry And Warwickshire Integrated Care Board,QWU,NHS Coventry And Warwickshire Integrated Care Board
+RL1,THE ROBERT JONES AND AGNES HUNT ORTHOPAEDIC HOSPITAL NHS FOUNDATION TRUST,NHS Trust,SY10 7AG,Midlands,true,202104,202606,0,false,QOC,"NHS Shropshire, Telford And Wrekin Integrated Care Board",QOC,"NHS Shropshire, Telford And Wrekin Integrated Care Board"
+RBT,MID CHESHIRE HOSPITALS NHS FOUNDATION TRUST,NHS Trust,CW1 4QJ,North West,true,202104,202606,63,true,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+RJZ,KING'S COLLEGE HOSPITAL NHS FOUNDATION TRUST,NHS Trust,SE5 9RS,London,true,202104,202606,63,true,QKK,NHS South East London Integrated Care Board,QKK,NHS South East London Integrated Care Board
+RNZ,SALISBURY NHS FOUNDATION TRUST,NHS Trust,SP2 8BJ,South West,true,202104,202606,63,true,QOX,"NHS Bath And North East Somerset, Swindon And Wiltshire Integrated Care Board",QOX,"NHS Bath And North East Somerset, Swindon And Wiltshire Integrated Care Board"
+RFS,CHESTERFIELD ROYAL HOSPITAL NHS FOUNDATION TRUST,NHS Trust,S44 5BL,Midlands,true,202104,202606,63,true,QJ2,NHS Derby And Derbyshire Integrated Care Board,QJ2,NHS Derby And Derbyshire Integrated Care Board
+C82009,MARKET HARBOROUGH MED.CTR,Other provider,,Midlands Commissioning Region,,202104,202606,0,false,QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board",QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board"
+NNJ,DHU HEALTH CARE C.I.C,Other provider,,Midlands Commissioning Region,,202104,202606,0,false,QJ2,NHS Derby And Derbyshire Integrated Care Board,QJ2,NHS Derby And Derbyshire Integrated Care Board
+ARN03,LOCAL CARE DIRECT,Other provider,,North East and Yorkshire Commissioning Region,,202104,202606,0,false,QWO,NHS West Yorkshire Integrated Care Board,QWO,NHS West Yorkshire Integrated Care Board
+NNF09,BRANSHOLME HEALTH CENTRE,Other provider,,North East and Yorkshire Commissioning Region,,202104,202606,0,false,QOQ,NHS Humber And North Yorkshire Integrated Care Board,QOQ,NHS Humber And North Yorkshire Integrated Care Board
+R1D,SHROPSHIRE COMMUNITY HEALTH NHS TRUST,NHS Trust,SY2 6FG,Midlands,true,202104,202606,0,false,QOC,"NHS Shropshire, Telford And Wrekin Integrated Care Board",QOC,"NHS Shropshire, Telford And Wrekin Integrated Care Board"
+RYF,SOUTH WESTERN AMBULANCE SERVICE NHS FOUNDATION TRUST,NHS Trust,EX2 7HY,South West,true,202104,202606,0,false,QJK,NHS Devon Integrated Care Board,QJK,NHS Devon Integrated Care Board
+RFR,THE ROTHERHAM NHS FOUNDATION TRUST,NHS Trust,S60 2UD,North East and Yorkshire,true,202104,202606,63,true,QF7,NHS South Yorkshire Integrated Care Board,QF7,NHS South Yorkshire Integrated Care Board
+RY5,LINCOLNSHIRE COMMUNITY HEALTH SERVICES NHS TRUST,NHS Trust,LN5 7JH,Midlands,true,202104,202606,0,false,QJM,NHS Lincolnshire Integrated Care Board,QJM,NHS Lincolnshire Integrated Care Board
+RGT,CAMBRIDGE UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,NHS Trust,CB2 0QQ,East of England,true,202104,202606,63,true,QUE,NHS Cambridgeshire And Peterborough Integrated Care Board,QUE,NHS Cambridgeshire And Peterborough Integrated Care Board
+RTQ,GLOUCESTERSHIRE HEALTH AND CARE NHS FOUNDATION TRUST,NHS Trust,GL3 4AW,South West,true,202104,202606,0,false,QR1,NHS Gloucestershire Integrated Care Board,QR1,NHS Gloucestershire Integrated Care Board
+RP5,DONCASTER AND BASSETLAW TEACHING HOSPITALS NHS FOUNDATION TRUST,NHS Trust,DN2 5LT,North East and Yorkshire,true,202104,202606,63,true,QF7,NHS South Yorkshire Integrated Care Board,QF7,NHS South Yorkshire Integrated Care Board
+Y03007,ERDINGTON GP HEALTH & WELLBEING WIC,Other provider,,Midlands Commissioning Region,,202104,202603,0,false,QHL,NHS Birmingham And Solihull Integrated Care Board,QHL,NHS Birmingham And Solihull Integrated Care Board
+Y03218,THE PINN UNREGISTERED WIC,Other provider,,London Commissioning Region,,202104,202603,0,false,QRV,NHS North West London Integrated Care Board,QRV,NHS North West London Integrated Care Board
+NNJ12,MARKET HARBOROUGH,Other provider,,Midlands Commissioning Region,,202104,202606,0,false,QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board",QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board"
+NNJ14,OADBY,Other provider,,Midlands Commissioning Region,,202104,202606,0,false,QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board",QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board"
+NNJ15,RUTLAND MINOR ILLNESS AND INJURY SERVICE (FORMERLY WLHH PRE-APRIL 2026),Other provider,,Midlands Commissioning Region,,202104,202606,0,false,QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board",QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board"
+NNJ07,LOUGHBOROUGH URGENT CARE CENTRE,Other provider,,Midlands Commissioning Region,,202205,202606,0,false,QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board",QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board"
+NNJ10,ENDERBY LEISURE CENTRE,Other provider,,Midlands Commissioning Region,,202603,202606,0,false,QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board",,
+RPC,QUEEN VICTORIA HOSPITAL NHS FOUNDATION TRUST,NHS Trust,RH19 3DZ,South East,true,202104,202606,0,false,QNX,NHS Sussex Integrated Care Board,QNX,NHS Sussex Integrated Care Board
+RYY,KENT COMMUNITY HEALTH NHS FOUNDATION TRUST,NHS Trust,TN25 4AZ,South East,true,202104,202606,0,false,QKS,NHS Kent And Medway Integrated Care Board,QKS,NHS Kent And Medway Integrated Care Board
+RGN,NORTH WEST ANGLIA NHS FOUNDATION TRUST,NHS Trust,PE3 9GZ,East of England,true,202104,202606,63,true,QUE,NHS Cambridgeshire And Peterborough Integrated Care Board,QUE,NHS Cambridgeshire And Peterborough Integrated Care Board
+RJ8,CORNWALL PARTNERSHIP NHS FOUNDATION TRUST,NHS Trust,PL31 2QN,South West,true,202104,202606,0,false,QT6,NHS Cornwall And The Isles Of Scilly Integrated Care Board,QT6,NHS Cornwall And The Isles Of Scilly Integrated Care Board
+RXW,THE SHREWSBURY AND TELFORD HOSPITAL NHS TRUST,NHS Trust,SY3 8XQ,Midlands,true,202104,202606,63,true,QOC,"NHS Shropshire, Telford And Wrekin Integrated Care Board",QOC,"NHS Shropshire, Telford And Wrekin Integrated Care Board"
+RYX,CENTRAL LONDON COMMUNITY HEALTHCARE NHS TRUST,NHS Trust,NW1 5JD,London,true,202104,202606,0,false,QRV,NHS North West London Integrated Care Board,QRV,NHS North West London Integrated Care Board
+RJ6,CROYDON HEALTH SERVICES NHS TRUST,NHS Trust,CR7 7YE,London,true,202104,202606,63,true,QWE,NHS South West London Integrated Care Board,QWE,NHS South West London Integrated Care Board
+RP6,MOORFIELDS EYE HOSPITAL NHS FOUNDATION TRUST,NHS Trust,EC1V 2PD,London,true,202104,202606,0,false,QMJ,NHS North Central London Integrated Care Board,QMJ,NHS North Central London Integrated Care Board
+RWE,UNIVERSITY HOSPITALS OF LEICESTER NHS TRUST,NHS Trust,LE1 5WW,Midlands,true,202104,202606,63,true,QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board",QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board"
+RJ7,ST GEORGE'S UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,NHS Trust,SW17 0QT,London,true,202104,202606,63,true,QWE,NHS South West London Integrated Care Board,QWE,NHS South West London Integrated Care Board
+RK5,SHERWOOD FOREST HOSPITALS NHS FOUNDATION TRUST,NHS Trust,NG17 4JL,Midlands,true,202104,202606,63,true,QT1,NHS Nottingham And Nottinghamshire Integrated Care Board,QT1,NHS Nottingham And Nottinghamshire Integrated Care Board
+RTR,SOUTH TEES HOSPITALS NHS FOUNDATION TRUST,NHS Trust,TS4 3BW,North East and Yorkshire,true,202104,202606,63,true,QHM,NHS North East And North Cumbria Integrated Care Board,QHM,NHS North East And North Cumbria Integrated Care Board
+RWW,NORTH CHESHIRE AND MERSEY NHS FOUNDATION TRUST,NHS Trust,WA5 1QG,North West,true,202104,202606,63,true,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+NLX,SIRONA CARE & HEALTH,Other provider,,South West Commissioning Region,,202104,202606,0,false,QUY,"NHS Bristol, North Somerset And South Gloucestershire Integrated Care Board",QUY,"NHS Bristol, North Somerset And South Gloucestershire Integrated Care Board"
+K6K0R,HAROLD WOOD POLYCLINIC UTC,Other provider,,London Commissioning Region,,202304,202606,0,false,QMF,NHS North East London Integrated Care Board,,
+RJE,UNIVERSITY HOSPITALS OF NORTH MIDLANDS NHS TRUST,NHS Trust,ST4 6QG,Midlands,true,202104,202606,63,true,QNC,NHS Staffordshire And Stoke-On-Trent Integrated Care Board,QNC,NHS Staffordshire And Stoke-On-Trent Integrated Care Board
+RQW,THE PRINCESS ALEXANDRA HOSPITAL NHS TRUST,NHS Trust,CM20 1QX,East of England,true,202104,202606,63,true,QM7,NHS Hertfordshire And West Essex Integrated Care Board,QM7,NHS Hertfordshire And West Essex Integrated Care Board
+RTH,OXFORD UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,NHS Trust,OX3 9DU,South East,true,202104,202606,63,true,QU9,"NHS Buckinghamshire, Oxfordshire And Berkshire West Integrated Care Board",QU9,"NHS Buckinghamshire, Oxfordshire And Berkshire West Integrated Care Board"
+RBL,WIRRAL UNIVERSITY TEACHING HOSPITAL NHS FOUNDATION TRUST,NHS Trust,CH49 5PE,North West,true,202104,202606,63,true,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+RBS,ALDER HEY CHILDREN'S NHS FOUNDATION TRUST,NHS Trust,L12 2AP,North West,true,202104,202606,63,true,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+RD1,ROYAL UNITED HOSPITALS BATH NHS FOUNDATION TRUST,NHS Trust,BA1 3NG,South West,true,202104,202606,63,true,QOX,"NHS Bath And North East Somerset, Swindon And Wiltshire Integrated Care Board",QOX,"NHS Bath And North East Somerset, Swindon And Wiltshire Integrated Care Board"
+RXQ,BUCKINGHAMSHIRE HEALTHCARE NHS TRUST,NHS Trust,HP7 0JD,South East,true,202104,202606,63,true,QU9,"NHS Buckinghamshire, Oxfordshire And Berkshire West Integrated Care Board",QU9,"NHS Buckinghamshire, Oxfordshire And Berkshire West Integrated Care Board"
+R0D,UNIVERSITY HOSPITALS DORSET NHS FOUNDATION TRUST,NHS Trust,BH15 2JB,South West,true,202104,202606,63,true,QVV,NHS Dorset Integrated Care Board,QVV,NHS Dorset Integrated Care Board
+RVR,EPSOM AND ST HELIER UNIVERSITY HOSPITALS NHS TRUST,NHS Trust,SM5 1AA,London,true,202104,202606,63,true,QWE,NHS South West London Integrated Care Board,QWE,NHS South West London Integrated Care Board
+RWF,MAIDSTONE AND TUNBRIDGE WELLS NHS TRUST,NHS Trust,ME16 9QQ,South East,true,202104,202606,63,true,QKS,NHS Kent And Medway Integrated Care Board,QKS,NHS Kent And Medway Integrated Care Board
+R1F,ISLE OF WIGHT NHS TRUST,NHS Trust,PO30 5TG,South East,true,202104,202606,63,true,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board
+RTG,UNIVERSITY HOSPITALS OF DERBY AND BURTON NHS FOUNDATION TRUST,NHS Trust,DE22 3NE,Midlands,true,202104,202606,63,true,QJ2,NHS Derby And Derbyshire Integrated Care Board,QJ2,NHS Derby And Derbyshire Integrated Care Board
+AAH,TETBURY HOSPITAL TRUST LTD,Other provider,,South West Commissioning Region,,202104,202606,0,false,QR1,NHS Gloucestershire Integrated Care Board,QR1,NHS Gloucestershire Integrated Care Board
+NQT5F,SKELMERSDALE WALK IN CENTRE,Other provider,,North West Commissioning Region,,202104,202606,0,false,QE1,NHS Lancashire And South Cumbria Integrated Care Board,QE1,NHS Lancashire And South Cumbria Integrated Care Board
+NQT5H,PAULTON MEMORIAL HOSPITAL,Other provider,,South West Commissioning Region,,202104,202606,0,false,QOX,"NHS Bath And North East Somerset, Swindon And Wiltshire Integrated Care Board",QOX,"NHS Bath And North East Somerset, Swindon And Wiltshire Integrated Care Board"
+NNJ0H,LLR EA - THE MERLYN VAZ HEALTH & SOCIAL CARE CENTRE,Other provider,,Midlands Commissioning Region,,202104,202606,0,false,QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board",QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board"
+NTV0W,WOKING WALK IN CENTRE,Other provider,,South East Commissioning Region,,202104,202606,0,false,QXU,NHS Surrey Heartlands Integrated Care Board,QXU,NHS Surrey Heartlands Integrated Care Board
+RH8,ROYAL DEVON UNIVERSITY HEALTHCARE NHS FOUNDATION TRUST,NHS Trust,EX2 5DW,South West,true,202104,202606,63,true,QJK,NHS Devon Integrated Care Board,QJK,NHS Devon Integrated Care Board
+RQX,HOMERTON HEALTHCARE NHS FOUNDATION TRUST,NHS Trust,E9 6SR,London,true,202104,202606,63,true,QMF,NHS North East London Integrated Care Board,QMF,NHS North East London Integrated Care Board
+RTX,UNIVERSITY HOSPITALS OF MORECAMBE BAY NHS FOUNDATION TRUST,NHS Trust,LA9 7RG,North West,true,202104,202606,63,true,QE1,NHS Lancashire And South Cumbria Integrated Care Board,QE1,NHS Lancashire And South Cumbria Integrated Care Board
+RNN,NORTH CUMBRIA INTEGRATED CARE NHS FOUNDATION TRUST,NHS Trust,CA2 7HY,North East and Yorkshire,true,202104,202606,63,true,QHM,NHS North East And North Cumbria Integrated Care Board,QHM,NHS North East And North Cumbria Integrated Care Board
+RCD,HARROGATE AND DISTRICT NHS FOUNDATION TRUST,NHS Trust,HG2 7SX,North East and Yorkshire,true,202104,202606,63,true,QOQ,NHS Humber And North Yorkshire Integrated Care Board,QOQ,NHS Humber And North Yorkshire Integrated Care Board
+RX1,NOTTINGHAM UNIVERSITY HOSPITALS NHS TRUST,NHS Trust,NG7 2UH,Midlands,true,202104,202606,63,true,QT1,NHS Nottingham And Nottinghamshire Integrated Care Board,QT1,NHS Nottingham And Nottinghamshire Integrated Care Board
+RVV,EAST KENT HOSPITALS UNIVERSITY NHS FOUNDATION TRUST,NHS Trust,CT1 3NG,South East,true,202104,202606,63,true,QKS,NHS Kent And Medway Integrated Care Board,QKS,NHS Kent And Medway Integrated Care Board
+NNJ13,MELTON MOWBRAY,Other provider,,Midlands Commissioning Region,,202104,202606,0,false,QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board",QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board"
+NNFA7,GOOLE & DISTRICT HOSPITAL,Other provider,,North East and Yorkshire Commissioning Region,,202104,202606,0,false,QOQ,NHS Humber And North Yorkshire Integrated Care Board,QOQ,NHS Humber And North Yorkshire Integrated Care Board
+NVE43,HASTINGS GP LED HEALTH CENTRE,Other provider,,South East Commissioning Region,,202510,202606,0,false,QNX,NHS Sussex Integrated Care Board,,
+RAT,NORTH EAST LONDON NHS FOUNDATION TRUST,NHS Trust,IG3 8XJ,London,true,202104,202606,0,false,QMF,NHS North East London Integrated Care Board,QMF,NHS North East London Integrated Care Board
+RAJ,MID AND SOUTH ESSEX NHS FOUNDATION TRUST,NHS Trust,SS0 0RY,East of England,true,202104,202606,63,true,QH8,NHS Mid And South Essex Integrated Care Board,QH8,NHS Mid And South Essex Integrated Care Board
+RL4,THE ROYAL WOLVERHAMPTON NHS TRUST,NHS Trust,WV10 0QP,Midlands,true,202104,202606,63,true,QUA,NHS Black Country Integrated Care Board,QUA,NHS Black Country Integrated Care Board
+RTK,ASHFORD AND ST PETER'S HOSPITALS NHS FOUNDATION TRUST,NHS Trust,KT16 0PZ,South East,true,202104,202606,63,true,QXU,NHS Surrey Heartlands Integrated Care Board,QXU,NHS Surrey Heartlands Integrated Care Board
+R1K,LONDON NORTH WEST UNIVERSITY HEALTHCARE NHS TRUST,NHS Trust,HA1 3UJ,London,true,202104,202606,63,true,QRV,NHS North West London Integrated Care Board,QRV,NHS North West London Integrated Care Board
+RCU,SHEFFIELD CHILDREN'S NHS FOUNDATION TRUST,NHS Trust,S10 2TH,North East and Yorkshire,true,202104,202606,63,true,QF7,NHS South Yorkshire Integrated Care Board,QF7,NHS South Yorkshire Integrated Care Board
+REP,LIVERPOOL WOMEN'S NHS FOUNDATION TRUST,NHS Trust,L8 7SS,North West,true,202104,202606,0,false,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+RY8,DERBYSHIRE COMMUNITY HEALTH SERVICES NHS FOUNDATION TRUST,NHS Trust,S42 7JE,Midlands,true,202104,202606,0,false,QJ2,NHS Derby And Derbyshire Integrated Care Board,QJ2,NHS Derby And Derbyshire Integrated Care Board
+RY4,HERTFORDSHIRE COMMUNITY NHS TRUST,NHS Trust,AL7 1BW,East of England,true,202104,202606,0,false,QM7,NHS Hertfordshire And West Essex Integrated Care Board,QM7,NHS Hertfordshire And West Essex Integrated Care Board
+RAX,KINGSTON AND RICHMOND NHS FOUNDATION TRUST,NHS Trust,KT2 7QB,London,true,202104,202606,63,true,QWE,NHS South West London Integrated Care Board,QWE,NHS South West London Integrated Care Board
+RWP,WORCESTERSHIRE ACUTE HOSPITALS NHS TRUST,NHS Trust,WR5 1DD,Midlands,true,202104,202606,63,true,QGH,NHS Herefordshire And Worcestershire Integrated Care Board,QGH,NHS Herefordshire And Worcestershire Integrated Care Board
+RRK,UNIVERSITY HOSPITALS BIRMINGHAM NHS FOUNDATION TRUST,NHS Trust,B15 2GW,Midlands,true,202104,202606,63,true,QHL,NHS Birmingham And Solihull Integrated Care Board,QHL,NHS Birmingham And Solihull Integrated Care Board
+RGP,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,NHS Trust,NR31 6LA,East of England,true,202104,202606,63,true,QMM,NHS Norfolk And Waveney Integrated Care Board,QMM,NHS Norfolk And Waveney Integrated Care Board
+RTE,GLOUCESTERSHIRE HOSPITALS NHS FOUNDATION TRUST,NHS Trust,GL53 7AN,South West,true,202104,202606,63,true,QR1,NHS Gloucestershire Integrated Care Board,QR1,NHS Gloucestershire Integrated Care Board
+RM3,NORTHERN CARE ALLIANCE NHS FOUNDATION TRUST,NHS Trust,M6 8HD,North West,true,202104,202606,63,true,QOP,NHS Greater Manchester Integrated Care Board,QOP,NHS Greater Manchester Integrated Care Board
+RET,THE WALTON CENTRE NHS FOUNDATION TRUST,NHS Trust,L9 7LJ,North West,true,202104,202606,0,false,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+RFF,BARNSLEY HOSPITAL NHS FOUNDATION TRUST,NHS Trust,S75 2EP,North East and Yorkshire,true,202104,202606,63,true,QF7,NHS South Yorkshire Integrated Care Board,QF7,NHS South Yorkshire Integrated Care Board
+NDJ,FIRST COMMUNITY HEALTH AND CARE CIC,Other provider,,South East Commissioning Region,,202104,202606,0,false,QNX,NHS Sussex Integrated Care Board,QNX,NHS Sussex Integrated Care Board
+NDA57,HASLEMERE MINOR INJURIES UNIT,Other provider,,South East Commissioning Region,,202104,202312,0,false,QXU,NHS Surrey Heartlands Integrated Care Board,QXU,NHS Surrey Heartlands Integrated Care Board
+RK9,UNIVERSITY HOSPITALS PLYMOUTH NHS TRUST,NHS Trust,PL6 8DH,South West,true,202104,202606,63,true,QJK,NHS Devon Integrated Care Board,QJK,NHS Devon Integrated Care Board
+RKB,UNIVERSITY HOSPITALS COVENTRY AND WARWICKSHIRE NHS TRUST,NHS Trust,CV2 2DX,Midlands,true,202104,202606,63,true,QWU,NHS Coventry And Warwickshire Integrated Care Board,QWU,NHS Coventry And Warwickshire Integrated Care Board
+RXF,MID YORKSHIRE TEACHING NHS TRUST,NHS Trust,WF1 4DG,North East and Yorkshire,true,202104,202606,63,true,QWO,NHS West Yorkshire Integrated Care Board,QWO,NHS West Yorkshire Integrated Care Board
+RBD,DORSET COUNTY HOSPITAL NHS FOUNDATION TRUST,NHS Trust,DT1 2JY,South West,true,202104,202606,63,true,QVV,NHS Dorset Integrated Care Board,QVV,NHS Dorset Integrated Care Board
+RJN,EAST CHESHIRE NHS TRUST,NHS Trust,SK10 3BL,North West,true,202104,202606,63,true,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+RHW,ROYAL BERKSHIRE NHS FOUNDATION TRUST,NHS Trust,RG1 5AN,South East,true,202104,202606,63,true,QU9,"NHS Buckinghamshire, Oxfordshire And Berkshire West Integrated Care Board",QU9,"NHS Buckinghamshire, Oxfordshire And Berkshire West Integrated Care Board"
+RR8,LEEDS TEACHING HOSPITALS NHS TRUST,NHS Trust,LS9 7TF,North East and Yorkshire,true,202104,202606,63,true,QWO,NHS West Yorkshire Integrated Care Board,QWO,NHS West Yorkshire Integrated Care Board
+RDE,EAST SUFFOLK AND NORTH ESSEX NHS FOUNDATION TRUST,NHS Trust,CO4 5JL,East of England,true,202104,202606,63,true,QJG,NHS Suffolk And North East Essex Integrated Care Board,QJG,NHS Suffolk And North East Essex Integrated Care Board
+RDR,SUSSEX COMMUNITY NHS FOUNDATION TRUST,NHS Trust,BN2 3EW,South East,true,202104,202606,0,false,QNX,NHS Sussex Integrated Care Board,QNX,NHS Sussex Integrated Care Board
+RW4,MERSEY CARE NHS FOUNDATION TRUST,NHS Trust,L34 1PJ,North West,true,202104,202606,0,false,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+RXR,EAST LANCASHIRE HOSPITALS NHS TRUST,NHS Trust,BB2 3HH,North West,true,202104,202606,63,true,QE1,NHS Lancashire And South Cumbria Integrated Care Board,QE1,NHS Lancashire And South Cumbria Integrated Care Board
+AJN,WORKINGTON HEALTH LIMITED,Other provider,,North East and Yorkshire Commissioning Region,,202104,202606,0,false,QHM,NHS North East And North Cumbria Integrated Care Board,QHM,NHS North East And North Cumbria Integrated Care Board
+NNF76,THE WILBERFORCE HEALTH CENTRE,Other provider,,North East and Yorkshire Commissioning Region,,202104,202402,0,false,QOQ,NHS Humber And North Yorkshire Integrated Care Board,QOQ,NHS Humber And North Yorkshire Integrated Care Board
+AD913,BECKENHAM BEACON UCC,Other provider,,London Commissioning Region,,202104,202606,0,false,QKK,NHS South East London Integrated Care Board,QKK,NHS South East London Integrated Care Board
+Y02428,PUTNOE WALK IN CENTRE,Other provider,,East of England Commissioning Region,,202104,202606,0,false,QHG,"NHS Bedfordshire, Luton And Milton Keynes Integrated Care Board",QHG,"NHS Bedfordshire, Luton And Milton Keynes Integrated Care Board"
+DT301,HERTS URGENT CARE (ASCOTS LANE),Other provider,,East of England Commissioning Region,,202104,202606,0,false,QM7,NHS Hertfordshire And West Essex Integrated Care Board,QM7,NHS Hertfordshire And West Essex Integrated Care Board
+NQT1I,CHIPPENHAM COMMUNITY HOSPITAL,Other provider,,South West Commissioning Region,,202505,202606,0,false,QOX,"NHS Bath And North East Somerset, Swindon And Wiltshire Integrated Care Board",,
+Y03051,HASTINGS MED P & WALKIN,Other provider,,NHS ENGLAND SOUTH EAST,,202104,202204,0,false,,,,
+NTV0B,ASHFORD WALK-IN-CENTRE,Other provider,,NHS ENGLAND SOUTH EAST,,202104,202606,0,false,,,,
+Y00751,EAST BERKS PRIMARY CARE OOH(WAM),Other provider,,NHS ENGLAND SOUTH EAST,,202104,202509,0,false,,,,
+AXG,WILTSHIRE HEALTH & CARE,Other provider,,NHS ENGLAND SOUTH WEST,,202104,202502,0,false,,,,
+NJS05,LOUGHBOROUGH URGENT CARE CENTRE,Other provider,,NHS ENGLAND MIDLANDS,,202104,202204,0,false,,,,
+Y02816,EASTBOURNE STATION HEALTH CENTRE,Other provider,,NHS ENGLAND SOUTH EAST,,202104,202108,0,false,,,,
+NQ106,FRYATT HOSPITAL,Other provider,,NHS ENGLAND EAST OF ENGLAND,,202105,202108,0,false,,,,
+NQT51,STATION PLAZA HEALTH CENTRE,Other provider,,NHS ENGLAND SOUTH EAST,,202205,202509,0,false,,,,
+NQT10,ASSURA READING LLP,Other provider,,NHS ENGLAND SOUTH EAST,,202104,202303,0,false,,,,
+RV9,HUMBER TEACHING NHS FOUNDATION TRUST,NHS Trust,HU10 6ED,North East and Yorkshire,true,202104,202606,0,false,QOQ,NHS Humber And North Yorkshire Integrated Care Board,QOQ,NHS Humber And North Yorkshire Integrated Care Board
+RW1,HAMPSHIRE AND ISLE OF WIGHT HEALTHCARE NHS FOUNDATION TRUST,NHS Trust,SO40 2RZ,South East,true,202104,202606,0,false,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board
+RBK,WALSALL HEALTHCARE NHS TRUST,NHS Trust,WS2 9PS,Midlands,true,202104,202606,63,true,QUA,NHS Black Country Integrated Care Board,QUA,NHS Black Country Integrated Care Board
+RAN,ROYAL NATIONAL ORTHOPAEDIC HOSPITAL NHS TRUST,NHS Trust,HA7 4LP,London,true,202104,202606,0,false,QMJ,NHS North Central London Integrated Care Board,QMJ,NHS North Central London Integrated Care Board
+RH5,SOMERSET NHS FOUNDATION TRUST,NHS Trust,TA1 5DA,South West,true,202104,202606,63,true,QSL,NHS Somerset Integrated Care Board,QSL,NHS Somerset Integrated Care Board
+RXK,SANDWELL AND WEST BIRMINGHAM HOSPITALS NHS TRUST,NHS Trust,B66 2QT,Midlands,true,202104,202606,63,true,QUA,NHS Black Country Integrated Care Board,QUA,NHS Black Country Integrated Care Board
+RLQ,WYE VALLEY NHS TRUST,NHS Trust,HR1 2ER,Midlands,true,202104,202606,63,true,QGH,NHS Herefordshire And Worcestershire Integrated Care Board,QGH,NHS Herefordshire And Worcestershire Integrated Care Board
+RM1,NORFOLK AND NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,NHS Trust,NR4 7UY,East of England,true,202104,202606,63,true,QMM,NHS Norfolk And Waveney Integrated Care Board,QMM,NHS Norfolk And Waveney Integrated Care Board
+RN7,DARTFORD AND GRAVESHAM NHS TRUST,NHS Trust,DA2 8DA,South East,true,202104,202606,63,true,QKS,NHS Kent And Medway Integrated Care Board,QKS,NHS Kent And Medway Integrated Care Board
+RWD,UNITED LINCOLNSHIRE TEACHING HOSPITALS NHS TRUST,NHS Trust,LN2 5QY,Midlands,true,202104,202606,63,true,QJM,NHS Lincolnshire Integrated Care Board,QJM,NHS Lincolnshire Integrated Care Board
+RJ1,GUY'S AND ST THOMAS' NHS FOUNDATION TRUST,NHS Trust,SE1 7EH,London,true,202104,202606,63,true,QKK,NHS South East London Integrated Care Board,QKK,NHS South East London Integrated Care Board
+RKE,WHITTINGTON HEALTH NHS TRUST,NHS Trust,N19 5NF,London,true,202104,202606,63,true,QMJ,NHS North Central London Integrated Care Board,QMJ,NHS North Central London Integrated Care Board
+RWJ,STOCKPORT NHS FOUNDATION TRUST,NHS Trust,SK2 7JE,North West,true,202104,202606,63,true,QOP,NHS Greater Manchester Integrated Care Board,QOP,NHS Greater Manchester Integrated Care Board
+Y03571,CORBY URGENT CARE CENTRE,Other provider,,Midlands Commissioning Region,,202104,202402,0,false,QPM,NHS Northamptonshire Integrated Care Board,QPM,NHS Northamptonshire Integrated Care Board
+Y04538,BRACKNELL URGENT CARE CENTRE WIC,Other provider,,South East Commissioning Region,,202104,202401,0,false,QNQ,NHS Frimley Integrated Care Board,QNQ,NHS Frimley Integrated Care Board
+RTP,SURREY AND SUSSEX HEALTHCARE NHS TRUST,NHS Trust,RH1 5RH,South East,true,202104,202606,63,true,QXU,NHS Surrey Heartlands Integrated Care Board,QXU,NHS Surrey Heartlands Integrated Care Board
+RCX,"THE QUEEN ELIZABETH HOSPITAL, KING'S LYNN, NHS FOUNDATION TRUST",NHS Trust,PE30 4ET,East of England,true,202104,202606,63,true,QMM,NHS Norfolk And Waveney Integrated Care Board,QMM,NHS Norfolk And Waveney Integrated Care Board
+RJR,COUNTESS OF CHESTER HOSPITAL NHS FOUNDATION TRUST,NHS Trust,CH2 1UL,North West,true,202104,202606,63,true,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+RNU,OXFORD HEALTH NHS FOUNDATION TRUST,NHS Trust,OX4 4XN,South East,true,202104,202606,0,false,QU9,"NHS Buckinghamshire, Oxfordshire And Berkshire West Integrated Care Board",QU9,"NHS Buckinghamshire, Oxfordshire And Berkshire West Integrated Care Board"
+RRF,"WRIGHTINGTON, WIGAN AND LEIGH TEACHING HOSPITALS NHS FOUNDATION TRUST",NHS Trust,WN1 2NN,North West,true,202104,202606,63,true,QOP,NHS Greater Manchester Integrated Care Board,QOP,NHS Greater Manchester Integrated Care Board
+RNQ,KETTERING GENERAL HOSPITAL NHS FOUNDATION TRUST,NHS Trust,NN16 8UZ,Midlands,true,202104,202606,63,true,QPM,NHS Northamptonshire Integrated Care Board,QPM,NHS Northamptonshire Integrated Care Board
+RBV,THE CHRISTIE NHS FOUNDATION TRUST,NHS Trust,M20 4BX,North West,true,202104,202606,0,false,QOP,NHS Greater Manchester Integrated Care Board,QOP,NHS Greater Manchester Integrated Care Board
+RCB,YORK AND SCARBOROUGH TEACHING HOSPITALS NHS FOUNDATION TRUST,NHS Trust,YO31 8HE,North East and Yorkshire,true,202104,202606,63,true,QOQ,NHS Humber And North Yorkshire Integrated Care Board,QOQ,NHS Humber And North Yorkshire Integrated Care Board
+R1H,BARTS HEALTH NHS TRUST,NHS Trust,E1 2ES,London,true,202104,202606,63,true,QMF,NHS North East London Integrated Care Board,QMF,NHS North East London Integrated Care Board
+RMP,TAMESIDE AND GLOSSOP INTEGRATED CARE NHS FOUNDATION TRUST,NHS Trust,OL6 9RW,North West,true,202104,202606,63,true,QOP,NHS Greater Manchester Integrated Care Board,QOP,NHS Greater Manchester Integrated Care Board
+R0A,MANCHESTER UNIVERSITY NHS FOUNDATION TRUST,NHS Trust,M13 9WL,North West,true,202104,202606,63,true,QOP,NHS Greater Manchester Integrated Care Board,QOP,NHS Greater Manchester Integrated Care Board
+REM,LIVERPOOL UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,NHS Trust,L7 8XP,North West,true,202104,202606,63,true,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+NR3,NOTTINGHAM CITYCARE PARTNERSHIP,Other provider,,Midlands Commissioning Region,,202104,202509,0,false,QT1,NHS Nottingham And Nottinghamshire Integrated Care Board,QT1,NHS Nottingham And Nottinghamshire Integrated Care Board
+Y02532,MIRIAM MINOR EMERGENCY,Other provider,,North West Commissioning Region,,202104,202606,0,false,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+G0Q0L,BARKING HOSPITAL UTC,Other provider,,London Commissioning Region,,202304,202606,0,false,QMF,NHS North East London Integrated Care Board,,
+RBN,MERSEY AND WEST LANCASHIRE TEACHING HOSPITALS NHS TRUST,NHS Trust,L35 5DR,North West,true,202104,202606,63,true,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+RQM,CHELSEA AND WESTMINSTER HOSPITAL NHS FOUNDATION TRUST,NHS Trust,SW10 9NH,London,true,202104,202606,63,true,QRV,NHS North West London Integrated Care Board,QRV,NHS North West London Integrated Care Board
+RAE,BRADFORD TEACHING HOSPITALS NHS FOUNDATION TRUST,NHS Trust,BD9 6RJ,North East and Yorkshire,true,202104,202606,63,true,QWO,NHS West Yorkshire Integrated Care Board,QWO,NHS West Yorkshire Integrated Care Board
+RA2,ROYAL SURREY NHS FOUNDATION TRUST,NHS Trust,GU2 7XX,South East,true,202104,202606,63,true,QXU,NHS Surrey Heartlands Integrated Care Board,QXU,NHS Surrey Heartlands Integrated Care Board
+RJ2,LEWISHAM AND GREENWICH NHS TRUST,NHS Trust,SE13 6LH,London,true,202104,202606,63,true,QKK,NHS South East London Integrated Care Board,QKK,NHS South East London Integrated Care Board
+RXG,SOUTH WEST YORKSHIRE PARTNERSHIP NHS FOUNDATION TRUST,NHS Trust,WF1 3SP,North East and Yorkshire,true,202104,202606,0,false,QWO,NHS West Yorkshire Integrated Care Board,QWO,NHS West Yorkshire Integrated Care Board
+RLT,GEORGE ELIOT HOSPITAL NHS TRUST,NHS Trust,CV10 7DJ,Midlands,true,202104,202606,63,true,QWU,NHS Coventry And Warwickshire Integrated Care Board,QWU,NHS Coventry And Warwickshire Integrated Care Board
+RQ3,BIRMINGHAM WOMEN'S AND CHILDREN'S NHS FOUNDATION TRUST,NHS Trust,B4 6NH,Midlands,true,202104,202606,63,true,QHL,NHS Birmingham And Solihull Integrated Care Board,QHL,NHS Birmingham And Solihull Integrated Care Board
+RTD,THE NEWCASTLE UPON TYNE HOSPITALS NHS FOUNDATION TRUST,NHS Trust,NE7 7DN,North East and Yorkshire,true,202104,202606,63,true,QHM,NHS North East And North Cumbria Integrated Care Board,QHM,NHS North East And North Cumbria Integrated Care Board
+RYJ,IMPERIAL COLLEGE HEALTHCARE NHS TRUST,NHS Trust,W2 1BL,London,true,202104,202606,63,true,QRV,NHS North West London Integrated Care Board,QRV,NHS North West London Integrated Care Board
+RXC,EAST SUSSEX HEALTHCARE NHS TRUST,NHS Trust,TN37 7PT,South East,true,202104,202606,63,true,QNX,NHS Sussex Integrated Care Board,QNX,NHS Sussex Integrated Care Board
+8J094,BADGER LTD,Other provider,,Midlands Commissioning Region,,202104,202603,0,false,QHL,NHS Birmingham And Solihull Integrated Care Board,QHL,NHS Birmingham And Solihull Integrated Care Board
+C82038,LATHAM HOUSE MEDICAL PRACTICE,Other provider,,Midlands Commissioning Region,,202104,202606,0,false,QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board",QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board"
+NL7,ASSURA VERTIS URGENT CARE CENTRES (BIRMINGHAM),Other provider,,Midlands Commissioning Region,,202104,202603,0,false,QHL,NHS Birmingham And Solihull Integrated Care Board,QHL,NHS Birmingham And Solihull Integrated Care Board
+L83087,OKEHAMPTON MEDICAL CENTRE,Other provider,,South West Commissioning Region,,202104,202606,0,false,QJK,NHS Devon Integrated Care Board,QJK,NHS Devon Integrated Care Board
+NTP11,PRACTICE PLUS GROUP HOSPITAL - SOUTHAMPTON,Other provider,,South East Commissioning Region,,202104,202606,0,false,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board,QRL,NHS Hampshire And Isle Of Wight Integrated Care Board
+ACH01,WHITSTABLE MEDICAL PRACTICE,Other provider,,South East Commissioning Region,,202206,202606,0,false,QKS,NHS Kent And Medway Integrated Care Board,QKS,NHS Kent And Medway Integrated Care Board
+NNF16,BRIDLINGTON HOSPITAL,Other provider,,North East and Yorkshire Commissioning Region,,202407,202606,0,false,QOQ,NHS Humber And North Yorkshire Integrated Care Board,,
+G3P9C,TROWBRIDGE MINOR INJURIES UNIT,Other provider,,South West Commissioning Region,,202505,202606,0,false,QOX,"NHS Bath And North East Somerset, Swindon And Wiltshire Integrated Care Board",,
+AQM01,FAVERSHAM MEDICAL PRACTICE MIU,Other provider,,NHS ENGLAND SOUTH EAST,,202505,202606,0,false,,,,
+Y02147,URGENT CARE CENTRE (QMS),Other provider,,NHS ENGLAND LONDON,,202104,202509,0,false,,,,
+AC008,ROSSENDALE MINOR INJURIES UNIT,Other provider,,NHS ENGLAND NORTH WEST,,202104,202204,0,false,,,,
+RY7,WIRRAL COMMUNITY HEALTH AND CARE NHS FOUNDATION TRUST,NHS Trust,CH42 0LQ,North West,true,202104,202606,0,false,QYG,NHS Cheshire And Merseyside Integrated Care Board,QYG,NHS Cheshire And Merseyside Integrated Care Board
+RA9,TORBAY AND SOUTH DEVON NHS FOUNDATION TRUST,NHS Trust,TQ2 7AA,South West,true,202104,202606,63,true,QJK,NHS Devon Integrated Care Board,QJK,NHS Devon Integrated Care Board
+REF,ROYAL CORNWALL HOSPITALS NHS TRUST,NHS Trust,TR1 3LJ,South West,true,202104,202606,63,true,QT6,NHS Cornwall And The Isles Of Scilly Integrated Care Board,QT6,NHS Cornwall And The Isles Of Scilly Integrated Care Board
+RWA,HULL UNIVERSITY TEACHING HOSPITALS NHS TRUST,NHS Trust,HU3 2JZ,North East and Yorkshire,true,202104,202606,63,true,QOQ,NHS Humber And North Yorkshire Integrated Care Board,QOQ,NHS Humber And North Yorkshire Integrated Care Board
+RYR,UNIVERSITY HOSPITALS SUSSEX NHS FOUNDATION TRUST,NHS Trust,BN11 2DH,South East,true,202104,202606,63,true,QNX,NHS Sussex Integrated Care Board,QNX,NHS Sussex Integrated Care Board
+RWG,WEST HERTFORDSHIRE TEACHING HOSPITALS NHS TRUST,NHS Trust,WD18 0HB,East of England,true,202104,202606,63,true,QM7,NHS Hertfordshire And West Essex Integrated Care Board,QM7,NHS Hertfordshire And West Essex Integrated Care Board
+R0B,SOUTH TYNESIDE AND SUNDERLAND NHS FOUNDATION TRUST,NHS Trust,SR4 7TP,North East and Yorkshire,true,202104,202606,63,true,QHM,NHS North East And North Cumbria Integrated Care Board,QHM,NHS North East And North Cumbria Integrated Care Board
+RF4,"BARKING, HAVERING AND REDBRIDGE UNIVERSITY HOSPITALS NHS TRUST",NHS Trust,RM7 0AG,London,true,202104,202606,63,true,QMF,NHS North East London Integrated Care Board,QMF,NHS North East London Integrated Care Board
+C83023,SLEAFORD MEDICAL GROUP,Other provider,,Midlands Commissioning Region,,202104,202606,0,false,QJM,NHS Lincolnshire Integrated Care Board,QJM,NHS Lincolnshire Integrated Care Board
+DD401,EXMOUTH MINOR INJURY UNIT,Other provider,,South West Commissioning Region,,202104,202312,0,false,QJK,NHS Devon Integrated Care Board,QJK,NHS Devon Integrated Care Board
+NNF94,EAST RIDING COMMUNITY HOSPITAL,Other provider,,North East and Yorkshire Commissioning Region,,202104,202606,0,false,QOQ,NHS Humber And North Yorkshire Integrated Care Board,QOQ,NHS Humber And North Yorkshire Integrated Care Board
+NV693,ROSSENDALE MIU & OOH,Other provider,,North West Commissioning Region,,202205,202606,0,false,QE1,NHS Lancashire And South Cumbria Integrated Care Board,QE1,NHS Lancashire And South Cumbria Integrated Care Board
+NNJ11,LUTTERWORTH HOSPITAL,Other provider,,Midlands Commissioning Region,,202603,202606,0,false,QK1,"NHS Leicester, Leicestershire And Rutland Integrated Care Board",,
+G82071,WHITSTABLE MEDICAL PRACTICE,Other provider,,NHS ENGLAND SOUTH EAST,,202104,202205,0,false,,,,
+DFQ,NORWICH & NORFOLK SURGICAL LTD (N2S),Other provider,,,,202104,202605,0,false,,,,
+NLE01,LANCASTER HOUSE CONSULTING DIAGNOSTICS SURGICAL LTD HQ,Other provider,,,,202104,202605,0,false,,,,
+NPG23,SPAMEDICA DERBY,Other provider,,,,202104,202605,0,false,,,,
+NT224,"NUFFIELD HEALTH, WARWICKSHIRE HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT226,"NUFFIELD HEALTH, LEICESTER HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT308,SPIRE GATWICK PARK HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT351,SPIRE HULL AND EAST RIDING HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT405,BISHOPS WOOD HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT408,CHAUCER HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT412,DROITWICH SPA HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT445,EDGBASTON HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT451,CAVELL HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT455,MOUNT ALVERNIA HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC0Y,EXETER MEDICAL,Other provider,,,,202104,202605,0,false,,,,
+O5Y9D,SPAMEDICA OXFORD,Other provider,,,,202207,202605,0,false,,,,
+G5X2Q,SPAMEDICA NORTH TYNESIDE,Other provider,,,,202309,202605,0,false,,,,
+J2H6H,SPAMEDICA COLCHESTER,Other provider,,,,202402,202605,0,false,,,,
+G6S7A,SPAMEDICA TAUNTON,Other provider,,,,202408,202605,0,false,,,,
+I1H7K,SPAMEDICA SALE,Other provider,,,,202410,202605,0,false,,,,
+NNH,OPTEGRA UK,Other provider,,,,202412,202602,0,false,,,,
+NQX,PROVIDE ENTERPRISES,Other provider,,,,202504,202605,0,false,,,,
+H3W7Q,ACES CHELMSFORD,Other provider,,,,202511,202605,0,false,,,,
+W7J4C,ACES MANCHESTER,Other provider,,,,202511,202605,0,false,,,,
+P1G3N,ACES LEEDS WHITE ROSE,Other provider,,,,202601,202605,0,false,,,,
+D0Y2J,OPTEGRA AT HAVANT HEALTH CENTRE (HAVANT),Other provider,,,,202603,202605,0,false,,,,
+E4K5T,OPTEGRA EYE HOSPITAL NEWCASTLE,Other provider,,,,202603,202605,0,false,,,,
+ACG24,NEWMEDICA - TEESSIDE - NORTH ORMESBY,Other provider,,,,202104,202605,0,false,,,,
+NDL01,SUFFOLK GP FEDERATION,Other provider,,,,202104,202603,0,false,,,,
+NPG08,SPAMEDICA BOLTON,Other provider,,,,202104,202605,0,false,,,,
+NPG12,SPAMEDICA ECCLESHILL TREATMENT CENTRE,Other provider,,,,202104,202306,0,false,,,,
+NT237,"NUFFIELD HEALTH, TEES HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT30A,SPIRE NOTTINGHAM HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT315,SPIRE BUSHEY HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT403,BEARDWOOD HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT430,RIDGEWAY HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NTPAE,PRACTICE PLUS GROUP OPHTHALMOLOGY - NORTH WEST,Other provider,,,,202104,202605,0,false,,,,
+NVC02,THE BERKSHIRE INDEPENDENT HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC04,DUCHY HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC09,NEW HALL HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC0R,TEES VALLEY HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NX5,ANGLIA COMMUNITY EYE SERVICE LTD,Other provider,,,,202104,202510,0,false,,,,
+NXM01,THE HORDER CENTRE - ST JOHNS ROAD,Other provider,,,,202104,202605,0,false,,,,
+NXP,INDEPENDENT HEALTH GROUP,Other provider,,,,202104,202605,0,false,,,,
+NYW17,ASPEN HEALTHCARE - MIDLAND EYE,Other provider,,,,202104,202501,0,false,,,,
+M0N7E,SPAMEDICA SITTINGBOURNE,Other provider,,,,202107,202605,0,false,,,,
+AAV,COMMUNITY HEALTH AND EYECARE LIMITED,Other provider,,,,202204,202605,0,false,,,,
+DFY01,COTSWOLDS SURGICAL PARTNERS,Other provider,,,,202304,202605,0,false,,,,
+AY1,MEDEFER,Other provider,,,,202311,202605,0,false,,,,
+NRL,HEART NETWORKS,Other provider,,,,202410,202605,0,false,,,,
+C9A7J,NEWMEDICA - BRADFORD & HUDDERSFIELD,Other provider,,,,202411,202605,0,false,,,,
+AVQ01,ONE ASHFORD HOSPITAL,Other provider,,,,202511,202605,0,false,,,,
+G3E7R,OPTEGRA EYE HOSPITAL MAIDSTONE,Other provider,,,,202603,202605,0,false,,,,
+NNH03,OPTEGRA (SURREY EYE HOSPITAL),Other provider,,,,202603,202605,0,false,,,,
+ACG12,NEWMEDICA COMMUNITY OPHTHALMOLOGY - NORTH EAST LINCOLNSHIRE - GRIMSBY,Other provider,,,,202104,202605,0,false,,,,
+AJX,SUSSEX MSK PARTNERSHIP 2,Other provider,,,,202104,202411,0,false,,,,
+NCN,DMC HEALTHCARE,Other provider,,,,202104,202605,0,false,,,,
+NPG16,SPAMEDICA CHELMSFORD,Other provider,,,,202104,202605,0,false,,,,
+NT238,"NUFFIELD HEALTH, TAUNTON HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT314,SPIRE LONDON EAST,Other provider,,,,202104,202605,0,false,,,,
+NT339,SPIRE REGENCY HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT406,BLACKHEATH HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT436,SHIRLEY OAKS HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT440,THORNBURY HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT449,LANCASTER PRIVATE HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NV1,INHEALTH LIMITED,Other provider,,,,202104,202605,0,false,,,,
+P0C3F,SPAMEDICA LEEDS,Other provider,,,,202207,202605,0,false,,,,
+DFY02,COTSWOLDS SURGICAL PARTNERS (MELKSHAM),Other provider,,,,202304,202307,0,false,,,,
+V5F1D,SPAMEDICA TELFORD,Other provider,,,,202307,202605,0,false,,,,
+Z5J5V,SPAMEDICA HAYDOCK,Other provider,,,,202402,202605,0,false,,,,
+V8N5R,SPAMEDICA DALSTON,Other provider,,,,202403,202605,0,false,,,,
+DJH01,THE ROYAL BUCKINGHAMSHIRE HOSPITAL LTD,Other provider,,,,202409,202605,0,false,,,,
+K9J3O,SPAMEDICA LUTON,Other provider,,,,202409,202605,0,false,,,,
+V8A3H,SPAMEDICA SHEFFIELD COMMUNITY DIAGNOSTIC & TREATMENT CENTRE,Other provider,,,,202507,202605,0,false,,,,
+NP9,BESPOKE HEALTHCARE LTD,Other provider,,,,202509,202605,0,false,,,,
+S0L9O,ACES BIRMINGHAM,Other provider,,,,202511,202605,0,false,,,,
+Q4W9A,ACES SOUTHAMPTON,Other provider,,,,202512,202605,0,false,,,,
+Q6V1S,OPTEGRA EYE HOSPITAL SHEFFIELD,Other provider,,,,202603,202605,0,false,,,,
+R1A,HEREFORDSHIRE AND WORCESTERSHIRE HEALTH AND CARE NHS TRUST,NHS Trust,WR5 1JR,Midlands,true,202104,202605,0,false,,,,
+RPG,OXLEAS NHS FOUNDATION TRUST,NHS Trust,DA2 7WG,South East,true,202104,202605,0,false,,,,
+RW5,LANCASHIRE & SOUTH CUMBRIA NHS FOUNDATION TRUST,NHS Trust,PR5 6AW,North West,true,202104,202605,0,false,,,,
+R1L,ESSEX PARTNERSHIP UNIVERSITY NHS FOUNDATION TRUST,NHS Trust,SS11 7XX,East of England,true,202302,202412,0,false,,,,
+RX4,"CUMBRIA, NORTHUMBERLAND, TYNE AND WEAR NHS FOUNDATION TRUST",NHS Trust,NE3 3XT,North East and Yorkshire,true,202104,202605,0,false,,,,
+RKL,WEST LONDON NHS TRUST,NHS Trust,UB2 4SD,London,true,202104,202405,0,false,,,,
+RRE,MIDLANDS PARTNERSHIP UNIVERSITY NHS FOUNDATION TRUST,NHS Trust,ST16 3SR,Midlands,true,202104,202605,0,false,,,,
+RV3,CENTRAL AND NORTH WEST LONDON NHS FOUNDATION TRUST,NHS Trust,NW1 3AX,London,true,202104,202502,0,false,,,,
+DFY,COTSWOLDS SURGICAL PARTNERS LLP,Other provider,,,,202104,202303,0,false,,,,
+NPG17,SPAMEDICA PRESTON,Other provider,,,,202104,202605,0,false,,,,
+NT241,"NUFFIELD HEALTH, WOKING HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT321,SPIRE LITTLE ASTON HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT333,SPIRE WASHINGTON HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT347,SPIRE FYLDE COAST HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT409,CHELSFIELD PARK HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT417,GORING HALL HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT428,PRINCESS MARGARET HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT429,PRIORY HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NTPH3,PRACTICE PLUS GROUP SURGICAL CENTRE - DEVIZES,Other provider,,,,202104,202605,0,false,,,,
+NVC06,FITZWILLIAM HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC14,PARK HILL HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC17,ROWLEY HALL HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC27,BOSTON WEST HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+Y8L9S,SPAMEDICA BROMLEY,Other provider,,,,202104,202605,0,false,,,,
+M5E1S,SPAMEDICA EXETER,Other provider,,,,202106,202605,0,false,,,,
+N6Z0R,NEWMEDICA - LINCOLN,Other provider,,,,202111,202605,0,false,,,,
+P5Y6K,NEWMEDICA - SHREWSBURY,Other provider,,,,202111,202605,0,false,,,,
+A4M8P,BUCKSHAW HOSPITAL,Other provider,,,,202201,202605,0,false,,,,
+NL3,CARE PLUS GROUP,Other provider,,,,202301,202605,0,false,,,,
+V4U1Y,SPAMEDICA CHESTER,Other provider,,,,202303,202605,0,false,,,,
+DXV,OMNES HEALTHCARE LTD,Other provider,,,,202309,202605,0,false,,,,
+Q2Y5H,OVIVA UK LTD,Other provider,,,,202504,202605,0,false,,,,
+NX501,ANGLIA COMMUNITY EYE SERVICE LTD,Other provider,,,,202511,202605,0,false,,,,
+U1P4Z,ACES MILTON KEYNES,Other provider,,,,202511,202605,0,false,,,,
+R6X7C,SPAMEDICA MACCLESFIELD COMMUNITY DIAGNOSTIC & TREATMENT CENTRE,Other provider,,,,202512,202605,0,false,,,,
+X0R3Y,ACES LEEDS KING STREET,Other provider,,,,202601,202605,0,false,,,,
+A1S9E,OPTEGRA EYE HOSPITAL YORK,Other provider,,,,202603,202605,0,false,,,,
+A6U7U,OPTEGRA EYE HOSPITAL NOTTINGHAM,Other provider,,,,202603,202605,0,false,,,,
+ACG20,NEWMEDICA - BRISTOL - LITFIELD HOUSE,Other provider,,,,202104,202605,0,false,,,,
+ADP02,KIMS HOSPITAL (NEWNHAM COURT),Other provider,,,,202104,202605,0,false,,,,
+AJ8,THE GRANGE MEDICAL CENTRE HQ,Other provider,,,,202104,202605,0,false,,,,
+AP201,EAST SUSSEX OUTPATIENT SERVICES (ESOPS),Other provider,,,,202104,202201,0,false,,,,
+NPG14,SPAMEDICA WIDNES,Other provider,,,,202104,202605,0,false,,,,
+NPG21,SPAMEDICA COVENTRY,Other provider,,,,202104,202605,0,false,,,,
+NT209,"NUFFIELD HEALTH, CAMBRIDGE HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT230,"NUFFIELD HEALTH, NORTH STAFFORDSHIRE HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT233,"NUFFIELD HEALTH, PLYMOUTH HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT309,SPIRE SUSSEX HOSPITAL,Other provider,,,,202104,202203,0,false,,,,
+NT404,BEAUMONT HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT424,MERIDEN HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT441,THREE SHIRES HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NTP16,PRACTICE PLUS GROUP SURGICAL CENTRE - GILLINGHAM,Other provider,,,,202104,202605,0,false,,,,
+NVC44,THE WESTBOURNE CENTRE,Other provider,,,,202104,202605,0,false,,,,
+R1G7E,SPAMEDICA KENDAL,Other provider,,,,202106,202605,0,false,,,,
+Z9Z1G,SPAMEDICA GATESHEAD,Other provider,,,,202109,202605,0,false,,,,
+M4C5R,NEWMEDICA - NORTHAMPTON,Other provider,,,,202204,202605,0,false,,,,
+S1Z4X,NEWMEDICA - BIRMINGHAM,Other provider,,,,202301,202605,0,false,,,,
+F9Z4V,CIRCLE READING HOSPITAL,Other provider,,,,202306,202605,0,false,,,,
+DLG,MAYFLOWER HEALTHCARE ALLIANCE,Other provider,,,,202308,202401,0,false,,,,
+F0R0W,NEWMEDICA - DARLINGTON,Other provider,,,,202407,202605,0,false,,,,
+Z2L9B,NEWMEDICA - MANCHESTER WEST,Other provider,,,,202409,202605,0,false,,,,
+S5E5Y,HCRG CARE DERMATOLOGY THE IRONSTONE CENTRE,Other provider,,,,202501,202603,0,false,,,,
+O1B1P,ACES PLYMOUTH,Other provider,,,,202601,202603,0,false,,,,
+ACG40,NEWMEDICA - WAKEFIELD,Other provider,,,,202104,202605,0,false,,,,
+ADN,PRIMARY INTEGRATED COMMUNITY SERVICES LTD,Other provider,,,,202104,202507,0,false,,,,
+I9A4A,SPAMEDICA BRIGHTON,Other provider,,,,202104,202605,0,false,,,,
+NLF06,OLDHAM INTEGRATED CARE CENTRE,Other provider,,,,202104,202401,0,false,,,,
+NN5,MANCHESTER SURGICAL SERVICES LTD,Other provider,,,,202104,202605,0,false,,,,
+NPG11,SPAMEDICA BIRMINGHAM,Other provider,,,,202104,202605,0,false,,,,
+NQV,BROMLEY HEALTHCARE,Other provider,,,,202104,202401,0,false,,,,
+NT229,"NUFFIELD HEALTH, NEWCASTLE UPON TYNE HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT304,SPIRE SOUTHAMPTON HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT350,SPIRE METHLEY PARK HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT416,HENDON HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT435,SHELBURNE HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT446,ST EDMUNDS HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NV323,CIRCLE READING HOSPITAL,Other provider,,,,202104,202305,0,false,,,,
+NVC19,RIVERS HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC31,BLAKELANDS HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+Q1W6P,SPAMEDICA WATFORD,Other provider,,,,202104,202605,0,false,,,,
+B4N1U,SPAMEDICA ROMFORD,Other provider,,,,202106,202605,0,false,,,,
+B5M7B,NEWMEDICA - NORWICH,Other provider,,,,202111,202605,0,false,,,,
+NYR,CORA HEALTH DIAGNOSTICS (FORMERLY HEALTHSHARE DIAGNOSTICS),Other provider,,,,202402,202605,0,false,,,,
+O6X7Z,SPAMEDICA CAMBRIDGE,Other provider,,,,202502,202605,0,false,,,,
+J0M7P,SPAMEDICA HEREFORD DIAGNOSTIC AND TREATMENT CENTRE,Other provider,,,,202504,202605,0,false,,,,
+Y9S1N,FAIRFIELD INDEPENDENT HOSPITAL,Other provider,,,,202504,202605,0,false,,,,
+I7G8X,ACES NEWCASTLE,Other provider,,,,202511,202605,0,false,,,,
+X7Y2H,ACES WILMSLOW,Other provider,,,,202511,202605,0,false,,,,
+NX505,ANGLIA COMMUNITY EYE SERVICE - FAKENHAM MEDICAL PRACTICE,Other provider,,,,202605,202605,0,false,,,,
+ACG22,NEWMEDICA - BRIGG - RIVERSIDE SURGERY,Other provider,,,,202104,202605,0,false,,,,
+ACG41,NEWMEDICA - FROME,Other provider,,,,202104,202309,0,false,,,,
+NEY,PIONEER HEALTHCARE LIMITED,Other provider,,,,202104,202605,0,false,,,,
+NN4,TYNESIDE SURGICAL SERVICES LTD,Other provider,,,,202104,202605,0,false,,,,
+NPG22,SPAMEDICA STOCKTON-ON-TEES,Other provider,,,,202104,202605,0,false,,,,
+NQTF7,VCL WILTSHIRE CHILDRENS SERVICES,Other provider,,,,202104,202401,0,false,,,,
+NRP,BEACON MEDICAL SERVICES GROUP LIMITED,Other provider,,,,202104,202605,0,false,,,,
+NT211,"NUFFIELD HEALTH, CHELTENHAM HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT313,SPIRE WELLESLEY HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT423,MANOR HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC0M,WEST VALLEY HOSPITAL,Other provider,,,,202104,202401,0,false,,,,
+NVC18,SPRINGFIELD HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC1H,STOURSIDE HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC21,WEST MIDLANDS HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+GEC,RAPID INVESTIGATION SERVICE,Other provider,,,,202108,202109,0,false,,,,
+NNH05,OPTEGRA (BIRMINGHAM EYE HOSPITAL),Other provider,,,,202109,202605,0,false,,,,
+E3D4A,SPAMEDICA TRURO,Other provider,,,,202207,202605,0,false,,,,
+T8V3L,SPAMEDICA DONCASTER,Other provider,,,,202207,202605,0,false,,,,
+H4I8B,NUFFIELD HEALTH THE HOLLY HOSPITAL,Other provider,,,,202209,202605,0,false,,,,
+R0F4N,NUFFIELD HEALTH PARKSIDE HOSPITAL,Other provider,,,,202209,202605,0,false,,,,
+D5P5H,SPAMEDICA BEXHILL,Other provider,,,,202210,202605,0,false,,,,
+J3J8Z,NEWMEDICA - OXFORDSHIRE,Other provider,,,,202309,202605,0,false,,,,
+A1U4J,SPAMEDICA PORTSMOUTH,Other provider,,,,202408,202605,0,false,,,,
+Q8X0X,SPAMEDICA ISLE OF WIGHT COMMUNITY DIAGNOSTIC & TREATMENT CENTRE,Other provider,,,,202501,202605,0,false,,,,
+Z4F8Y,ACES DARTFORD,Other provider,,,,202511,202605,0,false,,,,
+F2C9F,ACES HARLEY STREET,Other provider,,,,202601,202604,0,false,,,,
+AAV02,COMMUNITY HEALTH AND EYECARE LIMITED (PRESTON),Other provider,,,,202104,202203,0,false,,,,
+DX1,THE NEW FOSCOTE HOSPITAL LTD,Other provider,,,,202104,202605,0,false,,,,
+NPG02,SPAMEDICA WIRRAL,Other provider,,,,202104,202605,0,false,,,,
+NT213,"NUFFIELD HEALTH, DERBY HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT235,"NUFFIELD HEALTH, SHREWSBURY HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT239,"NUFFIELD HEALTH, TUNBRIDGE WELLS HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT245,"NUFFIELD HEALTH, YORK HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT316,SPIRE HARPENDEN HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT343,SPIRE THAMES VALLEY HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT401,ALEXANDRA HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT418,HAMPSHIRE CLINIC,Other provider,,,,202104,202605,0,false,,,,
+NT421,KINGS OAK HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT443,WINTERBOURNE HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT447,DUCHY HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT450,LINCOLN PRIVATE HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT457,WOODLANDS HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT497,BMI GISBURNE PARK HOSPITAL,Other provider,,,,202104,202106,0,false,,,,
+NTPH5,PRACTICE PLUS GROUP HOSPITAL - PLYMOUTH,Other provider,,,,202104,202605,0,false,,,,
+NVC13,OAKS HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+R7W2O,NEWCASTLE NEWMEDICA LTD,Other provider,,,,202206,202605,0,false,,,,
+O1P6X,SPAMEDICA OLDHAM,Other provider,,,,202207,202605,0,false,,,,
+G3Q3Z,NUFFIELD HEALTH HIGHGATE HOSPITAL,Other provider,,,,202209,202605,0,false,,,,
+C3Y0A,SPAMEDICA BLACKPOOL,Other provider,,,,202307,202605,0,false,,,,
+N8R1N,NEWMEDICA - BERKSHIRE,Other provider,,,,202407,202605,0,false,,,,
+N1N0Y,SPAMEDICA CROYDON,Other provider,,,,202505,202605,0,false,,,,
+NHW,STANDARD HEALTH LTD,Other provider,,,,202510,202605,0,false,,,,
+A4Y8X,ACES NOTTINGHAM,Other provider,,,,202511,202605,0,false,,,,
+F7B2B,ANGLIA COMMUNITY EYE SERVICE - BURY ST EDMUNDS,Other provider,,,,202511,202605,0,false,,,,
+NX504,ANGLIA COMMUNITY EYE SERVICES FAKENHAM,Other provider,,,,202511,202605,0,false,,,,
+Y7W8F,ACES SOUTHAMPTON - EAST ST,Other provider,,,,202511,202605,0,false,,,,
+A5E1F,OPTEGRA EYE HOSPITAL PRESTON,Other provider,,,,202603,202605,0,false,,,,
+D9E5L,OPTEGRA EYE HOSPITAL BRIGHTON,Other provider,,,,202603,202605,0,false,,,,
+DXN,MODALITY LLP,Other provider,,,,202603,202605,0,false,,,,
+NNH04,OPTEGRA (MANCHESTER EYE HOSPITAL),Other provider,,,,202603,202605,0,false,,,,
+P1N3Z,DEEPING SURGICAL,Other provider,,,,202605,202605,0,false,,,,
+RP1,NORTHAMPTONSHIRE HEALTHCARE NHS FOUNDATION TRUST,NHS Trust,NN15 7PW,Midlands,true,202104,202401,0,false,,,,
+REN,THE CLATTERBRIDGE CANCER CENTRE NHS FOUNDATION TRUST,NHS Trust,CH63 4JY,North West,true,202104,202605,0,false,,,,
+TAD,BRADFORD DISTRICT CARE NHS FOUNDATION TRUST,Care Trust,BD18 3LD,North East and Yorkshire,true,202104,202605,0,false,,,,
+RPY,THE ROYAL MARSDEN NHS FOUNDATION TRUST,NHS Trust,SW3 6JJ,London,true,202104,202605,0,false,,,,
+RXM,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,NHS Trust,DE22 3LZ,Midlands,true,202104,202403,0,false,,,,
+RP4,GREAT ORMOND STREET HOSPITAL FOR CHILDREN NHS FOUNDATION TRUST,NHS Trust,WC1N 3JH,London,true,202104,202605,0,false,,,,
+RRJ,THE ROYAL ORTHOPAEDIC HOSPITAL NHS FOUNDATION TRUST,NHS Trust,B31 2AP,Midlands,true,202104,202605,0,false,,,,
+ACG13,NEWMEDICA - GLOUCESTER (ASPEN MEDICAL CENTRE),Other provider,,,,202104,202605,0,false,,,,
+NAM01,PROBUS SURGICAL CENTRE,Other provider,,,,202104,202605,0,false,,,,
+NL8,LOCALA COMMUNITY PARTNERSHIPS CIC,Other provider,,,,202104,202605,0,false,,,,
+NMG,CORA HEALTH MSK (FORMERLY CONNECT HEALTH LTD),Other provider,,,,202104,202605,0,false,,,,
+NPG01,SPAMEDICA MANCHESTER,Other provider,,,,202104,202605,0,false,,,,
+NPG10,SPAMEDICA SHEFFIELD,Other provider,,,,202104,202605,0,false,,,,
+NQH,NOVUS HEALTH LTD,Other provider,,,,202104,202605,0,false,,,,
+NQM01,ORTHOPAEDICS & SPINE SPECIALIST HOSPITAL SITE,Other provider,,,,202104,202605,0,false,,,,
+NQTH0,HCRG CARE EAST RIDING LLP,Other provider,,,,202104,202410,0,false,,,,
+NT225,"NUFFIELD HEALTH, LEEDS HOSPITAL",Other provider,,,,202104,202511,0,false,,,,
+NT305,SPIRE PORTSMOUTH HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT348,SPIRE ELLAND HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT411,CLEMENTINE CHURCHILL HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT420,HIGHFIELD HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT422,LONDON INDEPENDENT HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NTPH1,PRACTICE PLUS GROUP HOSPITAL - SHEPTON MALLET,Other provider,,,,202104,202605,0,false,,,,
+NV10Y,NORTH WEST CATS - INHEALTH PATHWAY MANAGEMENT CENTRE,Other provider,,,,202104,202301,0,false,,,,
+NVC07,FULWOOD HALL HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC12,OAKLANDS HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC28,CLIFTON PARK HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+D3O0Z,PLYMOUTH NEWMEDICA LTD,Other provider,,,,202207,202605,0,false,,,,
+I2C7H,SPAMEDICA BRADFORD,Other provider,,,,202304,202605,0,false,,,,
+K8I4X,GLENDON WOOD HOSPITAL,Other provider,,,,202305,202605,0,false,,,,
+L4R3R,NEWMEDICA - HAMPSHIRE,Other provider,,,,202308,202605,0,false,,,,
+NT216,"NUFFIELD HEALTH, GUILDFORD HOSPITAL",Other provider,,,,202407,202605,0,false,,,,
+NLG,COMMUNITAS CLINICS,Other provider,,,,202411,202605,0,false,,,,
+DPK,THE STONEYGATE EYE HOSPITAL,Other provider,,,,202506,202605,0,false,,,,
+NID,THE LIVING CARE GROUP,Other provider,,,,202603,202605,0,false,,,,
+R6B6E,ACES DARLINGTON,Other provider,,,,202604,202605,0,false,,,,
+S5D8W,ACES MIDDLESBOROUGH,Other provider,,,,202605,202605,0,false,,,,
+RP7,LINCOLNSHIRE PARTNERSHIP NHS FOUNDATION TRUST,NHS Trust,LN1 1FS,Midlands,true,202104,202605,0,false,,,,
+RQY,SOUTH WEST LONDON AND ST GEORGE'S MENTAL HEALTH NHS TRUST,NHS Trust,SW17 7DJ,London,true,202104,202402,0,false,,,,
+A0C5S,SPAMEDICA GLOUCESTER,Other provider,,,,202104,202605,0,false,,,,
+ACG09,NEWMEDICA - BARLBOROUGH,Other provider,,,,202104,202205,0,false,,,,
+ACG35,NEWMEDICA - WINTERTON,Other provider,,,,202104,202104,0,false,,,,
+ACG37,NEWMEDICA - IPSWICH,Other provider,,,,202104,202605,0,false,,,,
+DTT,PHOENIX PUBLIC HEALTH LTD,Other provider,,,,202104,202605,0,false,,,,
+NNE,DORKING HEALTHCARE LIMITED (DHC),Other provider,,,,202104,202605,0,false,,,,
+NQX01,PROVIDE WELLBEING @ TOLLGATE CLINIC,Other provider,,,,202104,202503,0,false,,,,
+NT310,SPIRE TUNBRIDGE WELLS HOSPITAL,Other provider,,,,202104,202409,0,false,,,,
+NT319,SPIRE HARTSWOOD HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT432,BMI - THE SANDRINGHAM HOSPITAL,Other provider,,,,202106,202106,0,false,,,,
+L9D3Z,SPAMEDICA LEICESTER,Other provider,,,,202109,202605,0,false,,,,
+J7V1N,SPAMEDICA SOLIHULL,Other provider,,,,202207,202605,0,false,,,,
+J3X4C,SPAMEDICA WORCESTER,Other provider,,,,202403,202605,0,false,,,,
+R3I5E,NEWMEDICA -TELFORD,Other provider,,,,202404,202506,0,false,,,,
+S4E3I,MIDLAND EYE (EYE-DOCS LTD),Other provider,,,,202502,202605,0,false,,,,
+D0V5X,NEWMEDICA - SWINDON MURDOCK ROAD,Other provider,,,,202508,202605,0,false,,,,
+AVQ03,ONE HATFIELD HOSPITAL,Other provider,,,,202510,202605,0,false,,,,
+H7X1I,ANGLIA COMMUNITY EYE SERVICE - CAMBRIDGE,Other provider,,,,202511,202605,0,false,,,,
+RGM,ROYAL PAPWORTH HOSPITAL NHS FOUNDATION TRUST,NHS Trust,CB2 0AY,East of England,true,202104,202605,0,false,,,,
+ACG38,NEWMEDICA - LANGFORD,Other provider,,,,202104,202605,0,false,,,,
+NFH,SOMERSET SURGICAL SERVICES HQ,Other provider,,,,202104,202605,0,false,,,,
+NPG19,SPAMEDICA BEDFORD,Other provider,,,,202104,202605,0,false,,,,
+NQT5K,ST MARTINS HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT202,"NUFFIELD HEALTH, BOURNEMOUTH HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT219,"NUFFIELD HEALTH, HEREFORD HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT302,SPIRE BRISTOL HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT345,SPIRE CLARE PARK HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT437,SLOANE HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC22,WINFIELD HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NWF01,BENENDEN HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NYW01,ASPEN - THE HOLLY,Other provider,,,,202104,202208,0,false,,,,
+M3R0W,SPAMEDICA NORWICH,Other provider,,,,202108,202605,0,false,,,,
+G3Z1Q,SULIS HOSPITAL BATH (FOXCOTE AVENUE),Other provider,,,,202109,202605,0,false,,,,
+H2K1G,NEWMEDICA - BROMSGROVE,Other provider,,,,202411,202605,0,false,,,,
+C5Y9L,NEWMEDICA - BERKSHIRE - BRACKNELL,Other provider,,,,202501,202605,0,false,,,,
+U0K8N,CES MEDICAL,Other provider,,,,202508,202605,0,false,,,,
+A9P5F,ACES WHITE CITY,Other provider,,,,202511,202605,0,false,,,,
+D1V5N,ACES BOLTON,Other provider,,,,202601,202605,0,false,,,,
+NNH02,OPTEGRA YORKSHIRE EYE HOSPITAL,Other provider,,,,202603,202605,0,false,,,,
+RT1,CAMBRIDGESHIRE AND PETERBOROUGH NHS FOUNDATION TRUST,NHS Trust,CB21 5EF,East of England,true,202104,202605,0,false,,,,
+RY6,LEEDS COMMUNITY HEALTHCARE NHS TRUST,NHS Trust,LS11 0DL,North East and Yorkshire,true,202104,202504,0,false,,,,
+RYW,BIRMINGHAM COMMUNITY HEALTHCARE NHS FOUNDATION TRUST,NHS Trust,B7 4BN,Midlands,true,202104,202605,0,false,,,,
+ACM,EYE CARE MEDICAL LTD,Other provider,,,,202104,202605,0,false,,,,
+AQK,VERNOVA HEALTHCARE COMMUNITY INTEREST COMPANY,Other provider,,,,202104,202605,0,false,,,,
+B9M3W,SPAMEDICA SOUTHAMPTON,Other provider,,,,202104,202605,0,false,,,,
+NT205,"NUFFIELD HEALTH, BRIGHTON HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT210,"NUFFIELD HEALTH, THE GROSVENOR HOSPITAL, CHESTER",Other provider,,,,202104,202605,0,false,,,,
+NT212,"NUFFIELD HEALTH, CHICHESTER HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT214,"NUFFIELD HEALTH, WESSEX HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT218,"NUFFIELD HEALTH, HAYWARDS HEATH HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT242,"NUFFIELD HEALTH, WOLVERHAMPTON HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT301,SPIRE SOUTH BANK HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT327,SPIRE MANCHESTER HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT337,SPIRE LIVERPOOL HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT3X3,SPIRE ST ANTHONY'S HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT448,HUDDERSFIELD PRIVATE HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NTE02,ST HUGH'S HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NTP13,PRACTICE PLUS GROUP HOSPITAL - BARLBOROUGH,Other provider,,,,202104,202605,0,false,,,,
+NTP15,PRACTICE PLUS GROUP HOSPITAL - ILFORD,Other provider,,,,202104,202605,0,false,,,,
+NVC25,THE CHERWELL HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NYW03,ASPEN - HIGHGATE HOSPITAL,Other provider,,,,202104,202208,0,false,,,,
+P1B7M,SPAMEDICA BRISTOL,Other provider,,,,202104,202605,0,false,,,,
+NT318,SPIRE NORWICH HOSPITAL,Other provider,,,,202309,202605,0,false,,,,
+E1U4T,SPAMEDICA CARLISLE,Other provider,,,,202310,202605,0,false,,,,
+A4Q9X,NEWMEDICA LEICESTER,Other provider,,,,202312,202605,0,false,,,,
+NVL,DMC DERMATOLOGY,Other provider,,,,202409,202509,0,false,,,,
+G4H0I,NEWMEDICA SUFFOLK - BURY ST EDMUNDS - CLARITY HOUSE,Other provider,,,,202411,202605,0,false,,,,
+F7F6D,NEWMEDICA - HERTFORSHIRE - WELWYN GARDEN CITY,Other provider,,,,202503,202605,0,false,,,,
+Z1E5F,NEWMEDICA - HARROGATE,Other provider,,,,202503,202605,0,false,,,,
+NRF,UNIVERSITY OF SOUTHAMPTON AUDITORY IMPLANT SERVICE,Other provider,,,,202504,202605,0,false,,,,
+R5J3Z,BORDER HEALTH ALLIANCE LIMITED,Other provider,,,,202507,202605,0,false,,,,
+NX507,ANGLIA COMMUNITY EYE SERVICE - THETFORD HEALTHY LIVING CENTRE,Other provider,,,,202511,202605,0,false,,,,
+T1T4S,ACES BRISTOL,Other provider,,,,202511,202605,0,false,,,,
+E6F9I,ACES BRADFORD,Other provider,,,,202601,202605,0,false,,,,
+T1I9W,ACES LINCOLN,Other provider,,,,202601,202605,0,false,,,,
+X1M4L,ACES MAIDSTONE,Other provider,,,,202601,202605,0,false,,,,
+A8L1O,OPTEGRA EYE HOSPITAL LEICESTER,Other provider,,,,202603,202605,0,false,,,,
+A9T5Y,RSA (ATHENA SURGICAL CENTRE),Other provider,,,,202605,202605,0,false,,,,
+ACG07,NEWMEDICA COMMUNITY OPHTHALMOLOGY - LEICESTERSHIRE - LEICESTER (STONEYGATE EYE HOSPITAL),Other provider,,,,202104,202401,0,false,,,,
+AHP,ST MICHAEL'S CLINIC LIMITED,Other provider,,,,202104,202605,0,false,,,,
+L0D9W,NEWMEDICA - GLOUCESTER (BRIGHOUSE COURT),Other provider,,,,202104,202605,0,false,,,,
+NN8,SPENCER PRIVATE HOSPITALS LTD,Other provider,,,,202104,202605,0,false,,,,
+NT320,SPIRE PARKWAY HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT344,SPIRE DUNEDIN HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT434,SAXON CLINIC,Other provider,,,,202104,202605,0,false,,,,
+NT490,SOUTHEND PRIVATE HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC05,EUXTON HALL HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC40,WOODTHORPE HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NYW02,ASPEN - PARKSIDE HOSPITAL,Other provider,,,,202104,202208,0,false,,,,
+H4J9P,NEWMEDICA AZTEC WEST,Other provider,,,,202206,202605,0,false,,,,
+M9U8M,ENDOCARE DIAGNOSTICS LTD,Other provider,,,,202409,202605,0,false,,,,
+AWR,ONE STOP DOCTORS LIMITED,Other provider,,,,202507,202605,0,false,,,,
+U6A5N,ACES CHISWICK,Other provider,,,,202511,202605,0,false,,,,
+F4B0R,SPAMEDICA GUILDFORD,Other provider,,,,202512,202605,0,false,,,,
+N8Z8E,ACES TORQUAY,Other provider,,,,202601,202605,0,false,,,,
+NNH07,OPTEGRA LONDON EYE HOSPITAL,Other provider,,,,202603,202605,0,false,,,,
+RY3,EAST OF ENGLAND COMMUNITY HEALTH AND CARE NHS TRUST,NHS Trust,NR2 3TU,East of England,true,202104,202402,0,false,,,,
+ACG36,NEWMEDICA - EXETER - GLEN HOUSE,Other provider,,,,202104,202605,0,false,,,,
+ACG39,NEWMEDICA - SWINDON,Other provider,,,,202104,202601,0,false,,,,
+GEC01,RAPID INVESTIGATION SERVICE,Other provider,,,,202104,202605,0,false,,,,
+L6O7H,SPAMEDICA POOLE,Other provider,,,,202104,202605,0,false,,,,
+NCR,ISIGHT,Other provider,,,,202104,202605,0,false,,,,
+NPG06,SPAMEDICA LIVERPOOL,Other provider,,,,202104,202605,0,false,,,,
+NPG15,SPAMEDICA NEWCASTLE-UNDER-LYME,Other provider,,,,202104,202605,0,false,,,,
+NR5,LIVEWELL SOUTHWEST,Other provider,,,,202104,202605,0,false,,,,
+NT206,"NUFFIELD HEALTH, BRISTOL HOSPITAL (CHESTERFIELD)",Other provider,,,,202104,202605,0,false,,,,
+NT244,NUFFIELD HOSPITAL OXFORD (THE MANOR),Other provider,,,,202104,202605,0,false,,,,
+NT332,SPIRE LEEDS HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT364,SPIRE MONTEFIORE HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT433,SARUM ROAD HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NTPH2,PRACTICE PLUS GROUP HOSPITAL - EMERSONS GREEN,Other provider,,,,202104,202605,0,false,,,,
+NV302,CIRCLE BATH HOSPITAL,Other provider,,,,202104,202108,0,false,,,,
+NVC15,PINEHILL HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC29,COBALT HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NWX,HERE,Other provider,,,,202104,202411,0,false,,,,
+T8R5I,SPAMEDICA WOKINGHAM,Other provider,,,,202104,202605,0,false,,,,
+A1D1B,SPAMEDICA WEMBLEY,Other provider,,,,202504,202605,0,false,,,,
+K3V9U,SPAMEDICA STEVENAGE COMMUNITY DIAGNOSTIC & TREATMENT CENTRE,Other provider,,,,202512,202605,0,false,,,,
+K7J9E,ANGLIA COMMUNITY EYE SERVICE - NORWICH,Other provider,,,,202512,202605,0,false,,,,
+B6Z0N,OPTEGRA EYE HOSPITAL UTTOXETER,Other provider,,,,202603,202605,0,false,,,,
+NNH06,OPTEGRA (SOLENT EYE HOSPITAL),Other provider,,,,202603,202605,0,false,,,,
+ACG19,NEWMEDICA COMMUNITY OPHTHALMOLOGY - LEEDS,Other provider,,,,202104,202605,0,false,,,,
+ACG30,NEWMEDICA - WORKSOP - DUKERIES,Other provider,,,,202104,202605,0,false,,,,
+ACG31,NEWMEDICA - WORCESTER,Other provider,,,,202104,202605,0,false,,,,
+NEQ,PHOENIX HEALTH SOLUTIONS LIMITED HQ,Other provider,,,,202104,202605,0,false,,,,
+NPG07,SPAMEDICA EYE HOSPITAL (WAKEFIELD),Other provider,,,,202104,202605,0,false,,,,
+NPG20,SPAMEDICA WOLVERHAMPTON,Other provider,,,,202104,202605,0,false,,,,
+NQA,PROVIDE,Other provider,,,,202104,202401,0,false,,,,
+NT204,"NUFFIELD HEALTH, BRENTWOOD HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT215,"NUFFIELD HEALTH, EXETER HOSPITAL",Other provider,,,,202104,202605,0,false,,,,
+NT317,SPIRE CAMBRIDGE LEA HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT322,SPIRE LEICESTER HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT427,PARK HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT431,RUNNYMEDE HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NTX,THE ONE HEALTH GROUP PLC,Other provider,,,,202104,202605,0,false,,,,
+NVC0I,BEACON PARK HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+B9J4U,SPAMEDICA PETERBOROUGH,Other provider,,,,202107,202605,0,false,,,,
+G3O5P,SPAMEDICA NEWARK,Other provider,,,,202107,202605,0,false,,,,
+M7C9Q,SPAMEDICA EPSOM,Other provider,,,,202110,202605,0,false,,,,
+ACG26,NEWMEDICA - NORTH DERBYSHIRE - MIDLAND COURT,Other provider,,,,202204,202605,0,false,,,,
+B3M1X,CLAREMONT PRIVATE HOSPITAL,Other provider,,,,202302,202605,0,false,,,,
+8KL73,ENDOCARE DIAGNOSTICS,Other provider,,,,202406,202408,0,false,,,,
+T4I8V,SPAMEDICA CHESTERFIELD,Other provider,,,,202406,202605,0,false,,,,
+S3H9L,THE HAMPTONS HOSPITAL LTD,Other provider,,,,202409,202605,0,false,,,,
+H1T2P,SPAMEDICA SWINDON,Other provider,,,,202410,202605,0,false,,,,
+M6L9D,NEWMEDICA - NOTTINGHAM - KEYWORTH,Other provider,,,,202508,202605,0,false,,,,
+H4Y7F,SPAMEDICA DORCHESTER,Other provider,,,,202509,202605,0,false,,,,
+V3J9W,PASTEL HEALTH,Other provider,,,,202510,202605,0,false,,,,
+N1M9Z,ACES EXETER,Other provider,,,,202511,202605,0,false,,,,
+X7M7U,ACES LAKESIDE,Other provider,,,,202512,202605,0,false,,,,
+N1L8R,ACES MANCHESTER ST JOHNS STREET,Other provider,,,,202601,202605,0,false,,,,
+S8O6A,ACES MANCHESTER TRAFFORD,Other provider,,,,202601,202605,0,false,,,,
+ACG08,NEWMEDICA OPHTHALMOLOGY - NUNEATON - CAMP HILL - GP LED HEALTH CENTRE,Other provider,,,,202104,202605,0,false,,,,
+NEJ01,HAND TO ELBOW CLINIC (BATH),Other provider,,,,202104,202104,0,false,,,,
+NNF,CITY HEALTH CARE PARTNERSHIP CIC,Other provider,,,,202104,202401,0,false,,,,
+NPG13,SPAMEDICA SKELMERSDALE,Other provider,,,,202104,202605,0,false,,,,
+NPG18,SPAMEDICA HULL,Other provider,,,,202104,202605,0,false,,,,
+NT312,SPIRE ALEXANDRA HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT324,SPIRE CHESHIRE HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT325,SPIRE MURRAYFIELD HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT402,BATH CLINIC,Other provider,,,,202104,202605,0,false,,,,
+NT410,CHILTERN HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NT419,HARBOUR HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC01,ASHTEAD HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC08,MOUNT STUART HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC11,NORTH DOWNS HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC16,RENACRES HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVC20,THE YORKSHIRE CLINIC,Other provider,,,,202104,202605,0,false,,,,
+NVC23,WOODLAND HOSPITAL,Other provider,,,,202104,202605,0,false,,,,
+NVG01,FAIRFIELD HOSPITAL,Other provider,,,,202104,202503,0,false,,,,
+NVM,EPSOMEDICAL GROUP,Other provider,,,,202104,202605,0,false,,,,
+NWV01,COHESE HEALTHCARE,Other provider,,,,202104,202605,0,false,,,,
+NYG,SUSSEX COMMUNITY DERMATOLOGY SERVICE,Other provider,,,,202104,202605,0,false,,,,
+NYW04,ASPEN - CLAREMONT HOSPITAL,Other provider,,,,202104,202212,0,false,,,,
+Q1S8W,NEWMEDICA - BURY ST EDMUNDS,Other provider,,,,202105,202508,0,false,,,,
+NX1,OPEROSE HEALTH (GROUP) UK LIMITED,Other provider,,,,202206,202305,0,false,,,,
+B1A5K,NEWMEDICA - NOTTINGHAM,Other provider,,,,202307,202605,0,false,,,,
+NPR01,ABOUT HEALTH HQ,Other provider,,,,202406,202605,0,false,,,,
+ADF01,NORTHWEST DIAGNOSTIC & TREATMENT SERVICES (MANOR HOUSE SURGERY),Other provider,,,,202411,202502,0,false,,,,
+F1Y1H,NEWMEDICA - CHESHIRE OAKS,Other provider,,,,202412,202605,0,false,,,,
+M2Y6D,PRACTICE PLUS GROUP HOSPITAL BIRMINGHAM,Other provider,,,,202502,202605,0,false,,,,
+D2L5T,ACES LIVERPOOL,Other provider,,,,202511,202605,0,false,,,,
+O9Q4E,ANGLIA COMMUNITY EYE SERVICE - PETERBOROUGH,Other provider,,,,202511,202605,0,false,,,,
+I7Q4A,OPTEGRA EYE HOSPITAL WEST LONDON,Other provider,,,,202603,202605,0,false,,,,
+M2O7D,OPTEGRA EYE HOSPITAL COLCHESTER,Other provider,,,,202603,202605,0,false,,,,

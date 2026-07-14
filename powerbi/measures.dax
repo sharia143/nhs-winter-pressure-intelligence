@@ -1,0 +1,156 @@
+// ============================================================================
+// NHS Winter Pressure — DAX measure set
+// Paste each measure into the model (Modeling > New measure), table noted per
+// block. Tables come from powerbi/data/*.csv; relationships per BUILD_GUIDE.
+// Rates are ALWAYS recomputed from summed counts (never averaged averages).
+// ============================================================================
+
+// ---------------------------------------------------------------- fact_ae_monthly
+Attendances Type1 = SUM ( fact_ae_monthly[att_type1] )
+
+Attendances All Types = SUM ( fact_ae_monthly[att_all] )
+
+Over 4hr Type1 = SUM ( fact_ae_monthly[over4hr_type1] )
+
+Over 4hr All Types = SUM ( fact_ae_monthly[over4hr_all] )
+
+4hr Performance Type1 =
+DIVIDE ( [Attendances Type1] - [Over 4hr Type1], [Attendances Type1] )
+
+4hr Performance All Types =
+DIVIDE ( [Attendances All Types] - [Over 4hr All Types], [Attendances All Types] )
+
+12hr DTA Waits = SUM ( fact_ae_monthly[dta_12hr_plus] )
+
+Emergency Admissions via AE = SUM ( fact_ae_monthly[emadm_via_ae] )
+
+Attendances Type1 per Day =
+DIVIDE ( [Attendances Type1], SUM ( fact_ae_monthly[days_in_month] ) )
+
+Perf vs 95% Standard = [4hr Performance Type1] - 0.95
+
+Perf vs 78% Interim = [4hr Performance Type1] - 0.78
+
+Meets Interim Ambition =
+IF ( [4hr Performance Type1] >= 0.78, "Yes", "No" )
+
+RAG Type1 =
+SWITCH (
+    TRUE (),
+    ISBLANK ( [4hr Performance Type1] ), 4,   // no data
+    [4hr Performance Type1] < 0.70, 1,        // RED
+    [4hr Performance Type1] < 0.78, 2,        // AMBER
+    3                                         // GREEN
+)
+
+RAG Colour Type1 =
+SWITCH ( [RAG Type1], 1, "#C23B22", 2, "#E8A33D", 3, "#3D8A5F", "#9A9A9A" )
+
+4hr Performance PY =
+CALCULATE ( [4hr Performance Type1], DATEADD ( dim_date[month_start], -12, MONTH ) )
+
+4hr Performance YoY pp = ( [4hr Performance Type1] - [4hr Performance PY] ) * 100
+
+4hr Performance 3M Rolling =
+AVERAGEX (
+    DATESINPERIOD ( dim_date[month_start], MAX ( dim_date[month_start] ), -3, MONTH ),
+    CALCULATE ( [4hr Performance Type1] )
+)
+
+Winter Delta pp =
+VAR WinterPerf =
+    CALCULATE ( [4hr Performance Type1], KEEPFILTERS ( dim_date[is_winter] = TRUE () ) )
+VAR SummerPerf =
+    CALCULATE ( [4hr Performance Type1], KEEPFILTERS ( dim_date[is_summer] = TRUE () ) )
+RETURN ( WinterPerf - SummerPerf ) * 100
+
+National 4hr Performance Type1 =
+CALCULATE ( [4hr Performance Type1], REMOVEFILTERS ( dim_org ) )
+
+Perf Gap vs National pp =
+( [4hr Performance Type1] - [National 4hr Performance Type1] ) * 100
+
+Trust Rank (worst first) =
+RANKX (
+    ALLSELECTED ( dim_org[org_name] ),
+    [4hr Performance Type1], , ASC, DENSE
+)
+
+// ---------------------------------------------------------------- fact_rtt_monthly
+RTT Waiting List = SUM ( fact_rtt_monthly[total_incomplete] )
+
+RTT Within 18wk = SUM ( fact_rtt_monthly[within_18wk] )
+
+RTT 18wk % = DIVIDE ( [RTT Within 18wk], [RTT Waiting List] )
+
+RTT 52wk+ = SUM ( fact_rtt_monthly[over_52wk] )
+
+RTT 65wk+ = SUM ( fact_rtt_monthly[over_65wk] )
+
+RTT Waiting per 10k Catchment =
+DIVIDE ( [RTT Waiting List] * 10000, SUM ( dim_trust_catchment[catchment_population] ) )
+
+RTT 18wk % vs 92% Standard = [RTT 18wk %] - 0.92
+
+// ---------------------------------------------------------------- fact_forecast
+Forecast Performance =
+1 - CALCULATE (
+        AVERAGE ( fact_forecast[point] ),
+        fact_forecast[metric] = "breach_rate"
+    )
+
+Forecast Performance Lo80 =
+1 - CALCULATE (
+        AVERAGE ( fact_forecast[hi80] ),
+        fact_forecast[metric] = "breach_rate"
+    )
+
+Forecast Performance Hi80 =
+1 - CALCULATE (
+        AVERAGE ( fact_forecast[lo80] ),
+        fact_forecast[metric] = "breach_rate"
+    )
+
+// Fan chart via stacked area: plot Lo80 (transparent) + Band Width (shaded)
+Forecast Band Width =
+[Forecast Performance Hi80] - [Forecast Performance Lo80]
+
+Forecast Att per Day =
+CALCULATE (
+    AVERAGE ( fact_forecast[point] ),
+    fact_forecast[metric] = "att_per_day"
+)
+
+// ---------------------------------------------------------------- ambulance / vacancy
+Cat2 Mean Response (min) =
+DIVIDE (
+    SUMX (
+        fact_ambulance_regional,
+        fact_ambulance_regional[cat2_mean_sec] * fact_ambulance_regional[cat2_incidents]
+    ),
+    SUM ( fact_ambulance_regional[cat2_incidents] )
+) / 60
+
+Cat2 vs 18min Standard (min) = [Cat2 Mean Response (min)] - 18
+
+Nursing Vacancy Pressure =
+AVERAGE ( fact_vacancy_regional[nursing_pressure_index] )
+
+// ---------------------------------------------------------------- equity
+Core20 Proxy Trust Count =
+CALCULATE ( DISTINCTCOUNT ( dim_equity[org_code] ), dim_equity[core20_proxy] = TRUE () )
+
+Avg Performance Most Deprived Quintile =
+CALCULATE (
+    AVERAGE ( dim_equity[type1_performance_12m] ),
+    dim_equity[deprivation_quintile] = 1
+)
+
+Avg Performance Least Deprived Quintile =
+CALCULATE (
+    AVERAGE ( dim_equity[type1_performance_12m] ),
+    dim_equity[deprivation_quintile] = 5
+)
+
+Equity Gap pp =
+( [Avg Performance Least Deprived Quintile] - [Avg Performance Most Deprived Quintile] ) * 100

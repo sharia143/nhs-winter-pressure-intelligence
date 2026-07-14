@@ -1,0 +1,13 @@
+﻿winter,horizon,coverage,calibration,metric
+2025-26,1,0.6777777777777778,"calibrated on 2024-25, measured on 2025-26",breach_rate
+2025-26,2,0.6888888888888889,"calibrated on 2024-25, measured on 2025-26",breach_rate
+2024-25,1,0.8388888888888889,pooled (in-sample),breach_rate
+2024-25,2,0.8277777777777777,pooled (in-sample),breach_rate
+2025-26,1,0.7555555555555555,pooled (in-sample),breach_rate
+2025-26,2,0.7611111111111111,pooled (in-sample),breach_rate
+2025-26,1,0.6638888888888889,"calibrated on 2024-25, measured on 2025-26",att_per_day
+2025-26,2,0.8027777777777778,"calibrated on 2024-25, measured on 2025-26",att_per_day
+2024-25,1,0.8333333333333334,pooled (in-sample),att_per_day
+2024-25,2,0.7805555555555556,pooled (in-sample),att_per_day
+2025-26,1,0.7611111111111111,pooled (in-sample),att_per_day
+2025-26,2,0.8138888888888889,pooled (in-sample),att_per_day
