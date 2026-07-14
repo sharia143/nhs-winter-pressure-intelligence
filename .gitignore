@@ -1,0 +1,19 @@
+# Data files are downloaded by the pipeline; only the manifest is versioned
+data/raw/**
+!data/raw/manifest.json
+data/staging/
+data/state/
+warehouse/*.duckdb
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Power BI local temp
+*.pbix.tmp
+
+# OS
+Thumbs.db
+.DS_Store
