@@ -1,0 +1,968 @@
+{
+  "ae/2021-04": {
+    "local": "ae/2021-04.csv",
+    "retrieved_at": "2026-07-12T11:23:12+00:00",
+    "sha256": "7186675c25532795a187380064119373bf6f7e583a26101d50594853fd55af12",
+    "size": 29860,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/05/April-2021-revised-120522-ABC456.csv"
+  },
+  "ae/2021-05": {
+    "local": "ae/2021-05.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "234bf368cb2564660b58b1877b0dccf6baaf4eef2ab739ff850c35be050ac272",
+    "size": 29728,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/05/May-2021-revised-120522-DEF678.csv"
+  },
+  "ae/2021-06": {
+    "local": "ae/2021-06.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "1281a61ca5ca0bb40e3e7dd6bcd7b598a87c6496115b43d86092cbe4ff3d9ea3",
+    "size": 29892,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/05/June-2021-revised-120522-GHI999.csv"
+  },
+  "ae/2021-07": {
+    "local": "ae/2021-07.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "09cf0e3f2e67947508788e09e62e2db38ccc0d1bc400cb98611c1c51693bf74e",
+    "size": 29930,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/05/July-2021-revised-120522-CBA304.csv"
+  },
+  "ae/2021-08": {
+    "local": "ae/2021-08.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "a0a2af888085d566e7a445dc0ae9a7461798abede8197a2abff5e88d8f5ae996",
+    "size": 30229,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/05/August-2021-revised-120522-CCC324.csv"
+  },
+  "ae/2021-09": {
+    "local": "ae/2021-09.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "8c5eba5b5d8712d80811bf6778d794fdacf13bb47fa15bc861e99325afd3f3c9",
+    "size": 30567,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/05/September-2021-revised-120522-TSU879.csv"
+  },
+  "ae/2021-10": {
+    "local": "ae/2021-10.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "41948bb7952599cba021ac074981d8fe938e62c4b226237961e01268498e1466",
+    "size": 30190,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/05/October-2021-revised-120522-aaa111.csv"
+  },
+  "ae/2021-11": {
+    "local": "ae/2021-11.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "31648d96d53c6b34374835df3644abbe4ec852a469d960bbb55a98240b082d68",
+    "size": 30407,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/05/November-2021-revised-120522-CDE131.csv"
+  },
+  "ae/2021-12": {
+    "local": "ae/2021-12.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "ffd792ba9e1f30937e93ed14833873b800816034f265525a1d70a8bcd34af0f8",
+    "size": 30376,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/05/December-2021-revised-120522-abc323.csv"
+  },
+  "ae/2022-01": {
+    "local": "ae/2022-01.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "41c7c604ed5a9d4f2f8bb270fa04969e4c938400e39e7eaa6b3b198ed294c78d",
+    "size": 30164,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/05/January-2022-revised-120522-bbb333.csv"
+  },
+  "ae/2022-02": {
+    "local": "ae/2022-02.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "f65c86b8f36529af51c062e08f47aaa3756462d554439ccaf9a8c36aa4c525b9",
+    "size": 30369,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/05/February-2022-revised-120522-cag124.csv"
+  },
+  "ae/2022-03": {
+    "local": "ae/2022-03.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "9efb5c8af2e56e045381cb60f3e84546f0ce05c8b09c381eb00bd22837eef5ff",
+    "size": 29875,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/05/March-2022-revised-120522-cab316.csv"
+  },
+  "ae/2022-04": {
+    "local": "ae/2022-04.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "4c2aa4410c490c85d36a173462984898dd1918b70a1a9c13ad64492a5bc456c2",
+    "size": 29480,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/April-2022-revised-130624-F4scP.csv"
+  },
+  "ae/2022-05": {
+    "local": "ae/2022-05.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "ed4945051be970e4506f5763461f9a78de2b6470be7d33ec7964dff882331736",
+    "size": 29222,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/05/May-2022-revised-110523-bbb222.csv"
+  },
+  "ae/2022-06": {
+    "local": "ae/2022-06.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "47d2a1faf3ff181958d651a2393e08e9bc9509e39257b36f3767753112432c01",
+    "size": 29407,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/05/June-2022-revised-110523-ccc333.csv"
+  },
+  "ae/2022-07": {
+    "local": "ae/2022-07.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "abbf52e972c1b2eab168019ff76ca23e98d74e2a62db63773faad4c33fc2b7a2",
+    "size": 29314,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/05/July-2022-revised-110523-ddd444.csv"
+  },
+  "ae/2022-08": {
+    "local": "ae/2022-08.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "670669f2e177dacf3d6e0976e2eab6d280cef9bcd90d5bb778f57437bbc3c8ca",
+    "size": 29118,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/05/August-2022-revised-110523-eee555.csv"
+  },
+  "ae/2022-09": {
+    "local": "ae/2022-09.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "23d110c96ca91985f3c8c4d0812e505f16cbf3bd3e1568973bfd14fdb751270e",
+    "size": 30128,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/05/September-2022-revised-110523-fff666.csv"
+  },
+  "ae/2022-10": {
+    "local": "ae/2022-10.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "c140ffc15427ddf6a750318bf5483c1083f5ed7eb2bf972e86d7f39b2f9d3fb3",
+    "size": 29950,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/05/October-2022-revised-110523-ggg777.csv"
+  },
+  "ae/2022-11": {
+    "local": "ae/2022-11.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "cd2f67efa66c54ee8b0f42ec951c0ed1488422fe17f3c999692773dd522359a0",
+    "size": 30137,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/05/November-2022-revised-110523-hhh888.csv"
+  },
+  "ae/2022-12": {
+    "local": "ae/2022-12.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "aa594d49a599986745673e7dc63a18755aeab13988e7af678d60441c909259aa",
+    "size": 30251,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/05/December-2022-revised-110523-iii999.csv"
+  },
+  "ae/2023-01": {
+    "local": "ae/2023-01.csv",
+    "retrieved_at": "2026-07-12T11:23:13+00:00",
+    "sha256": "55ba4a6120514015c0e5bf0ee44d41b0058a1260b32bbd3296bf9093b571beba",
+    "size": 29804,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/05/January-2023-revised-110523-jjj10a.csv"
+  },
+  "ae/2023-02": {
+    "local": "ae/2023-02.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "bed265f63fc5a14e180714cd2c3535c1e13bbed69f8995b38eb732c624f4e5ec",
+    "size": 29969,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/05/February-2023-revised-110523-kkk11b.csv"
+  },
+  "ae/2023-03": {
+    "local": "ae/2023-03.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "782615604759459499753df82c64fe4fd84069187b80a1d8bab88c9f5060c820",
+    "size": 29422,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/05/March-2023-revised-110523-lll12c.csv"
+  },
+  "ae/2023-04": {
+    "local": "ae/2023-04.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "be2f5f42fe5453aa871d255bd02579ba2eb38062e18f9d6406906b51e387b72d",
+    "size": 29433,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/April-2023-revised-130624-defv1.csv"
+  },
+  "ae/2023-05": {
+    "local": "ae/2023-05.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "1ca5baa9b3eb2d71b0c60d41b81d7e25316088789a9cbc9ab9ee9cb222a78142",
+    "size": 29063,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/May-2023-revised-130624-aaabbdd.csv"
+  },
+  "ae/2023-06": {
+    "local": "ae/2023-06.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "5dce1fcccf4be11407d3be40828eb536493322b4379d730ff7420497d917630d",
+    "size": 29341,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/June-2023-revised-130624-ndcvf47.csv"
+  },
+  "ae/2023-07": {
+    "local": "ae/2023-07.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "a741de676aac92ad9d09ec39b16f7cce061a8370499ef55ed7f1bd975d86b876",
+    "size": 29162,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/July-2023-revised-130624-ign340.csv"
+  },
+  "ae/2023-08": {
+    "local": "ae/2023-08.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "480c268fa24a5b0f86f9101bc04db28222f38e5e62e489a581ab43900b9f6355",
+    "size": 29555,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/August-2023-revised-130624-ndx091.csv"
+  },
+  "ae/2023-09": {
+    "local": "ae/2023-09.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "356a015b0811f9725ca644c8db667d31cc503a7e4b365af5c6b850cafd984376",
+    "size": 30227,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/September-2023-revised-130624-odh304.csv"
+  },
+  "ae/2023-10": {
+    "local": "ae/2023-10.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "4d1c7cd9d353265624c014b95e20506d1301e4276fb4457ea90aa823fe22c96c",
+    "size": 29859,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/October-2023-revised-130624-nbe280.csv"
+  },
+  "ae/2023-11": {
+    "local": "ae/2023-11.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "67dac63fd1b06c3e1c41c81da3d2d9aebe68d438bfa0202bd6b2772d72839cda",
+    "size": 30066,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/November-2023-revised-130624-vmw208.csv"
+  },
+  "ae/2023-12": {
+    "local": "ae/2023-12.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "0f5686df735dc73a89e119847560b8f71dadb15f6e8690d9ef62723207c5c296",
+    "size": 29940,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/December-2023-revised-130624-nbe280.csv"
+  },
+  "ae/2024-01": {
+    "local": "ae/2024-01.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "48e0ce1a9f4d73acfadfb247daefc6602fa4fe4d37d6ddd4613f1abf16815ace",
+    "size": 29407,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/January-2024-revised-130624-ddff.csv"
+  },
+  "ae/2024-02": {
+    "local": "ae/2024-02.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "1a616c682a9979431b38bbee8826cafff72ff4bf5fdfab2bc1273e16eec2f0d1",
+    "size": 29576,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/February-2024-revised-130624-ef123ty.csv"
+  },
+  "ae/2024-03": {
+    "local": "ae/2024-03.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "500978bf1f6c78c5657e9f88bae8d021eef330a2631214ff48c03b41c489fb50",
+    "size": 28780,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/March-2024-revised-130624-abcdef123.csv"
+  },
+  "ae/2024-04": {
+    "local": "ae/2024-04.csv",
+    "retrieved_at": "2026-07-12T11:23:14+00:00",
+    "sha256": "0e29d9ec984f9691d632ce11b95339548e2f18b01033636d57d7542291fc4324",
+    "size": 28754,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/11/Monthly-AE-April-2024-revised.csv"
+  },
+  "ae/2024-05": {
+    "local": "ae/2024-05.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "8c0b53860f5e5fd5d9d905ac7f3bc4064001bee1cd839d590705162ecb37e5ca",
+    "size": 28407,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/06/Monthly-AE-May-2024.csv"
+  },
+  "ae/2024-06": {
+    "local": "ae/2024-06.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "4dec9bfed872a9eef04706d5568e8d71950626f3867157d908d38958cd1b867a",
+    "size": 28545,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/07/Monthly-AE-June-2024.csv"
+  },
+  "ae/2024-07": {
+    "local": "ae/2024-07.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "37196f2ac98858b62f205dce6425178e49dfe82fad669f622b7d21277c2c896a",
+    "size": 28643,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/11/Monthly-AE-July-2024-revised.csv"
+  },
+  "ae/2024-08": {
+    "local": "ae/2024-08.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "fd0f6aa35acf85d00745dfecba6978f0b80499570cd973259f4bfdd3909f7aa4",
+    "size": 28947,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/09/Monthly-AE-August-2024.csv"
+  },
+  "ae/2024-09": {
+    "local": "ae/2024-09.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "b100d50e456fbfdfaa5729d34f7b720f31e8220f650f32a96c1cf33d6e363cb8",
+    "size": 30674,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/10/Monthly-AE-September-2024.csv"
+  },
+  "ae/2024-10": {
+    "local": "ae/2024-10.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "934223ea6747ebb9aa7b2d7e96a2dacf6a1554c7c7e4f4ca025bd989252896e6",
+    "size": 29295,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/05/Monthly-AE-October-2024-revised.csv"
+  },
+  "ae/2024-11": {
+    "local": "ae/2024-11.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "0e3b3269074f617c6b70bed1b09c2901e366aace318f052fe8070a911a88f5c2",
+    "size": 29504,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/05/Monthly-AE-November-2024-revised.csv"
+  },
+  "ae/2024-12": {
+    "local": "ae/2024-12.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "938e112a91a57154874ce86001646a620f884800f1bc82d17f5436ca4108b148",
+    "size": 29529,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/01/Monthly-AE-December-2024.csv"
+  },
+  "ae/2025-01": {
+    "local": "ae/2025-01.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "b99ff7e2b81f06c11190cfda73e87f90c8ee08b942633fe180fb2295475fb3d4",
+    "size": 29284,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/02/Monthly-AE-January-2025.csv"
+  },
+  "ae/2025-02": {
+    "local": "ae/2025-02.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "c524a9b94de00d290a4724e9b59ee25e92d8eaa554b1af8bfe7360ccbef2d6cb",
+    "size": 29445,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/05/Monthly-AE-February-2025-revised.csv"
+  },
+  "ae/2025-03": {
+    "local": "ae/2025-03.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "2983652e5536aa8d0656bf05ad5cd753084500d8428b9623803688b2f7b92b0b",
+    "size": 28883,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/04/Monthly-AE-March-2025.csv"
+  },
+  "ae/2025-04": {
+    "local": "ae/2025-04.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "3f1985ad48750615b16eea59dd44512f154eba6e663e9b8c05bb88260ff7ef20",
+    "size": 28844,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/11/April-2025-CSV-revised.csv"
+  },
+  "ae/2025-05": {
+    "local": "ae/2025-05.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "2d825cc8560d45a34f466a2b822ecfe198682534b82046962c44e28d3fbdb99b",
+    "size": 28685,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/11/May-2025-CSV-revised.csv"
+  },
+  "ae/2025-06": {
+    "local": "ae/2025-06.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "cdccfc217e9f7ec0d5682f7692a8b393ac8c0db0aea7c5b96d42814dfb131117",
+    "size": 28968,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/11/June-2025-CSV-revised.csv"
+  },
+  "ae/2025-07": {
+    "local": "ae/2025-07.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "340e88105ffb8d4092c609945cb73063dc9c846b097b88a9ab4395dd6d6b29fd",
+    "size": 28992,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/11/July-2025-CSV-revised.csv"
+  },
+  "ae/2025-08": {
+    "local": "ae/2025-08.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "423930b9f916fc2e279a88804b37f17a0a9f9c37cb49535f327c3b2be880e499",
+    "size": 29338,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/11/August-2025-CSV-revised.csv"
+  },
+  "ae/2025-09": {
+    "local": "ae/2025-09.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "1ecefe9b4810570d6fee449bb33d2d88c44700298401a67cef59397792384e62",
+    "size": 29977,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/11/September-2025-CSV-revised.csv"
+  },
+  "ae/2025-10": {
+    "local": "ae/2025-10.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "2016584bde94e1d3d9904fd9605f6947f72e242a4b0250be5b4dd7fc3f43d166",
+    "size": 29143,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/05/Monthly-AE-October-2025-revised-fly02sk.csv"
+  },
+  "ae/2025-11": {
+    "local": "ae/2025-11.csv",
+    "retrieved_at": "2026-07-12T11:25:26+00:00",
+    "sha256": "09b0245e70c02594a412cca1ed28ad0cccb1a54701e2cb69e775663e548bcf24",
+    "size": 29327,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/05/Monthly-AE-Nov-25-CSV-revised.csv"
+  },
+  "ae/2025-12": {
+    "local": "ae/2025-12.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "11076ca9f7e9a29cddf873773080b5edba6fc39cbbd8e2c345ad09e553c9e184",
+    "size": 29351,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/05/Monthly-AE-December-2025-revised-g9Hy6.csv"
+  },
+  "ae/2026-01": {
+    "local": "ae/2026-01.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "b1707a9f1326407d4e2fa1ac1815751d87f04f22617d846706d4acf8b6a6a26a",
+    "size": 29188,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/05/Monthly-AE-January-2026-revised-3dker.csv"
+  },
+  "ae/2026-02": {
+    "local": "ae/2026-02.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "87f870535ea397d60645e9551672ece8d5193e2d6bc8e026ec25f5a45aced3e5",
+    "size": 29315,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/03/February-2026-CSV-Dl8t54.csv"
+  },
+  "ae/2026-03": {
+    "local": "ae/2026-03.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "5a6557670b5eb8d2f2999cecec9e61fca334d2e555ab5dc35461dc3fe44d5058",
+    "size": 28953,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/05/Monthly-AE-March-2026-revised-flkg42.csv"
+  },
+  "ae/2026-04": {
+    "local": "ae/2026-04.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "09613a4478736c58d5a89bf2c9e1a5acb3d284d9da1b0462dcd6d74334e497ce",
+    "size": 27915,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/05/April-2026-CSV-QD21vf.csv"
+  },
+  "ae/2026-05": {
+    "local": "ae/2026-05.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "9422af5fccfbac95902d94487a081396cb33e6d0331f3e1d350b14ad437b7b18",
+    "size": 27775,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/06/May-2026-CSV-F4flrg.csv"
+  },
+  "ae/2026-06": {
+    "local": "ae/2026-06.csv",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "02a95fd45e9a20a56c48f6a6bb94fd877a4221473d0b380723b685527cb29af4",
+    "size": 27989,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/07/June-2026-CSV-Wfg38l.csv"
+  },
+  "ambulance/ambsys": {
+    "local": "ambulance/ambsys.csv",
+    "retrieved_at": "2026-07-12T11:23:24+00:00",
+    "sha256": "3c5bd0a43d382640338388740f299cb211a17d7fa9a97f91e8d23bae4b8f5586",
+    "size": 1411369,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/07/AmbSYS-to-Jun-2026-b4Uah.csv"
+  },
+  "catchment/ohid": {
+    "local": "catchment/trust_catchment_2026.ods",
+    "retrieved_at": "2026-07-12T11:22:51+00:00",
+    "sha256": "7f7639b2cc056fe0d4c388a3d71eb59015b219bcba8cba78e1672c0b7b47a997",
+    "size": 18829508,
+    "url": "https://assets.publishing.service.gov.uk/media/6a199144050971fbebf3bc3f/nhs-acute-hospital-trust-catchment-populations-data_tables-april-2026.ods"
+  },
+  "imd/file7": {
+    "local": "imd/imd2025_file7.csv",
+    "retrieved_at": "2026-07-12T11:22:50+00:00",
+    "sha256": "b1b716aa2e476449f987b9de3e08255b4794eabfd270626de5de18b2f5eff3ef",
+    "size": 9897666,
+    "url": "https://assets.publishing.service.gov.uk/media/691ded56d140bbbaa59a2a7d/File_7_IoD2025_All_Ranks_Scores_Deciles_Population_Denominators.csv"
+  },
+  "ods/acute_trust_attribution": {
+    "local": "ods/acute_trust_attribution.xls",
+    "retrieved_at": "2026-07-12T11:25:05+00:00",
+    "sha256": "4e0f65d452bc83f3e6ed7f787653e7037b415c99e50722a7dcf8c513ebfb5401",
+    "size": 140288,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/04/Acute-Trust-Attribution-File.xls"
+  },
+  "ods/ect": {
+    "local": "ods/ect.csv",
+    "retrieved_at": "2026-07-12T11:22:48+00:00",
+    "sha256": "23e00645f4b6d8dd65991fd7f4a9a4b81949bf974b620271157cd94f6de91c56",
+    "size": 2286,
+    "url": "https://www.odsdatasearchandexport.nhs.uk/api/getReport?report=ect"
+  },
+  "ods/eother": {
+    "local": "ods/eother.csv",
+    "retrieved_at": "2026-07-12T11:22:48+00:00",
+    "sha256": "cded6648f28d0a51528d663676b21869b99a9969a9b10ccc09e0dde8ce524f19",
+    "size": 182065,
+    "url": "https://www.odsdatasearchandexport.nhs.uk/api/getReport?report=eother"
+  },
+  "ods/etr": {
+    "local": "ods/etr.csv",
+    "retrieved_at": "2026-07-12T11:22:47+00:00",
+    "sha256": "50c34139a3ddbf8cce579c07edea74d2d3a0341a0e5145c95f0c20dd0b8005cb",
+    "size": 57414,
+    "url": "https://www.odsdatasearchandexport.nhs.uk/api/getReport?report=etr"
+  },
+  "ods/succ": {
+    "local": "ods/succ.csv",
+    "retrieved_at": "2026-07-12T11:22:48+00:00",
+    "sha256": "896f75da4b3aa8852fe79bd6742d388e71c5ea37c856bbdd8a6ac71f0442d9ba",
+    "size": 397669,
+    "url": "https://www.odsdatasearchandexport.nhs.uk/api/getReport?report=succ"
+  },
+  "ods/system_mapping": {
+    "local": "ods/system_mapping.xls",
+    "retrieved_at": "2026-07-12T11:25:05+00:00",
+    "sha256": "7c676a68b1014b399ca2db5824d1c1137dd4c514ae113087e9abf47cafb06b63",
+    "size": 74752,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/04/System-Mapping.xls"
+  },
+  "ods/trust_icb_attribution": {
+    "local": "ods/trust_icb_attribution.xls",
+    "retrieved_at": "2026-07-12T11:22:49+00:00",
+    "sha256": "d082b1256a025090a1f26955c347235bec8047a20cfc6ea077970b6971f62b24",
+    "size": 72192,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/02/Trust-ICB-Attribution-File.xls"
+  },
+  "rtt/2021-04": {
+    "local": "rtt/2021-04.zip",
+    "retrieved_at": "2026-07-12T11:25:26+00:00",
+    "sha256": "af629951c0592d4a20d864a81a133dc5fa03669cd062d29c04c6139e58f48aae",
+    "size": 3672798,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/01/Full-CSV-data-file-Apr21-revised-ZIP-3587K.zip"
+  },
+  "rtt/2021-05": {
+    "local": "rtt/2021-05.zip",
+    "retrieved_at": "2026-07-12T11:25:26+00:00",
+    "sha256": "740aed00a91d5b924439aa6e637f8fc0d3a28f1692e94c9da6d3d18c94fd1a1c",
+    "size": 3743494,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/01/Full-CSV-data-file-May21-revised-ZIP-3656K.zip"
+  },
+  "rtt/2021-06": {
+    "local": "rtt/2021-06.zip",
+    "retrieved_at": "2026-07-12T11:25:26+00:00",
+    "sha256": "d84323e5a7b4946a0434d56960cb4840b4c8edf22bf0e8fd38c07ed9ade9b150",
+    "size": 3827744,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/01/Full-CSV-data-file-Jun21-revised-ZIP-3739K.zip"
+  },
+  "rtt/2021-07": {
+    "local": "rtt/2021-07.zip",
+    "retrieved_at": "2026-07-12T11:25:27+00:00",
+    "sha256": "50be20c4ce9c7850002ede0bc29cf11ad1401a38000c9c7e5b8b0d4e6587d2c4",
+    "size": 3798536,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/01/Full-CSV-data-file-Jul21-revised-ZIP-3710K.zip"
+  },
+  "rtt/2021-08": {
+    "local": "rtt/2021-08.zip",
+    "retrieved_at": "2026-07-12T11:25:27+00:00",
+    "sha256": "3e76dff7fa0eb4828a980190c91e7eb349bb9ba443637588411f3a751b3ba767",
+    "size": 3770127,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/01/Full-CSV-data-file-Aug21-revised-ZIP-3682K.zip"
+  },
+  "rtt/2021-09": {
+    "local": "rtt/2021-09.zip",
+    "retrieved_at": "2026-07-12T11:25:27+00:00",
+    "sha256": "fca89abad906ecba0838c699707815c26589dcd98d3512924dcac843c817b289",
+    "size": 3858081,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/01/Full-CSV-data-file-Sep21-revised-ZIP-3768K.zip"
+  },
+  "rtt/2021-10": {
+    "local": "rtt/2021-10.zip",
+    "retrieved_at": "2026-07-12T11:25:27+00:00",
+    "sha256": "c9a7ec31a4fade19980b24e115ecb56f0eb52c266de3b15dcab667c23c7b9491",
+    "size": 3877195,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/03/Full-CSV-data-file-Oct21-revised-ZIP-3787K.zip"
+  },
+  "rtt/2021-11": {
+    "local": "rtt/2021-11.zip",
+    "retrieved_at": "2026-07-12T11:25:28+00:00",
+    "sha256": "30dbcdba25fc3975f691795246cc660000eddfdb86e980aacc14ecff3e4d3665",
+    "size": 3917769,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/03/Full-CSV-data-file-Nov21-revised-ZIP-3826K.zip"
+  },
+  "rtt/2021-12": {
+    "local": "rtt/2021-12.zip",
+    "retrieved_at": "2026-07-12T11:25:28+00:00",
+    "sha256": "38a8f1eab4e3f3e1341bcd778304cd9e382e028b1414af87de3a547816523a91",
+    "size": 3833837,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/03/Full-CSV-data-file-Dec21-revised-ZIP-3744K.zip"
+  },
+  "rtt/2022-01": {
+    "local": "rtt/2022-01.zip",
+    "retrieved_at": "2026-07-12T11:25:28+00:00",
+    "sha256": "51b2b0c777ea7d15ae3c4ba5550b168725e8f23910a6dfaec590cfffb8f5d2cf",
+    "size": 4368286,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/03/Full-CSV-data-file-Jan22-revised-ZIP-4266K.zip"
+  },
+  "rtt/2022-02": {
+    "local": "rtt/2022-02.zip",
+    "retrieved_at": "2026-07-12T11:25:28+00:00",
+    "sha256": "d3d932c7a2919f2da962452f97ec7c12c63c7560376e146931176ace5705fd0f",
+    "size": 4393115,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/03/Full-CSV-data-file-Feb22-revised-ZIP-109268K.zip"
+  },
+  "rtt/2022-03": {
+    "local": "rtt/2022-03.zip",
+    "retrieved_at": "2026-07-12T11:25:29+00:00",
+    "sha256": "05be6a77097d04247a30c576cb011a1fac756ae75b0e4f97b26cde07b1d108ab",
+    "size": 4504261,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/03/Full-CSV-data-file-Mar22-revised-ZIP-111805K.zip"
+  },
+  "rtt/2022-04": {
+    "local": "rtt/2022-04.zip",
+    "retrieved_at": "2026-07-12T11:25:29+00:00",
+    "sha256": "6e7c4fa9541a3265acdd75776711b494ea995d37b8f64875711aacff6178e97f",
+    "size": 4354303,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/03/Full-CSV-data-file-Apr22-revised-ZIP-4253.zip"
+  },
+  "rtt/2022-05": {
+    "local": "rtt/2022-05.zip",
+    "retrieved_at": "2026-07-12T11:25:29+00:00",
+    "sha256": "5626e9cf0dd9aee29164ef57587327f39dda09b20268e0b5dd66ff4964af6ede",
+    "size": 4497292,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/03/Full-CSV-data-file-May22-revised-ZIP-4392K.zip"
+  },
+  "rtt/2022-06": {
+    "local": "rtt/2022-06.zip",
+    "retrieved_at": "2026-07-12T11:25:30+00:00",
+    "sha256": "178266e5478134f3b10b0698cea3e29f56d0cabca6ea5337bdb7bdc875eb0228",
+    "size": 4474875,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/03/Full-CSV-data-file-Jun22-revised-ZIP-4253.zip"
+  },
+  "rtt/2022-07": {
+    "local": "rtt/2022-07.zip",
+    "retrieved_at": "2026-07-12T11:25:30+00:00",
+    "sha256": "a1e357dd0e699cd038451370a8bcb87089a0bddadc933b27b2cd8398706b4ff3",
+    "size": 3729357,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/03/Full-CSV-data-file-Jul22-revised-ZIP-3642K.zip"
+  },
+  "rtt/2022-08": {
+    "local": "rtt/2022-08.zip",
+    "retrieved_at": "2026-07-12T11:25:30+00:00",
+    "sha256": "cc1340db7f7742f8cbe98f4aa075ae97cf7add2b7c72b109a2fd2e2ba07e1197",
+    "size": 3570819,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/03/Full-CSV-data-file-Aug22-revised-ZIP-3488K.zip"
+  },
+  "rtt/2022-09": {
+    "local": "rtt/2022-09.zip",
+    "retrieved_at": "2026-07-12T11:25:30+00:00",
+    "sha256": "9585219f86ad2ee611cd25f135c032209d7a5020670c909d80e21837cdc07452",
+    "size": 3607788,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/03/Full-CSV-data-file-Sep22-revised-ZIP-3542K.zip"
+  },
+  "rtt/2022-10": {
+    "local": "rtt/2022-10.zip",
+    "retrieved_at": "2026-07-12T11:25:30+00:00",
+    "sha256": "532e0cf5eac8f747dc2088060449424aae0909fbb178a56091c2a57b5ff8b989",
+    "size": 3555937,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/08/Full-CSV-data-file-Oct22-revised-ZIP-3473K.zip"
+  },
+  "rtt/2022-11": {
+    "local": "rtt/2022-11.zip",
+    "retrieved_at": "2026-07-12T11:25:31+00:00",
+    "sha256": "446b873a6b568b2b073a7945e1af40fe42fc5e75f2674dc5fa33659adf22a046",
+    "size": 3592039,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/08/Full-CSV-data-file-Nov22-revised-ZIP-3508K.zip"
+  },
+  "rtt/2022-12": {
+    "local": "rtt/2022-12.zip",
+    "retrieved_at": "2026-07-12T11:25:31+00:00",
+    "sha256": "e7371a0132a583f86b7726dd8d7055838306c535484cf1ff62e4b81390ec0242",
+    "size": 3717621,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/08/Full-CSV-data-file-Dec22-revised-ZIP-3631K.zip"
+  },
+  "rtt/2023-01": {
+    "local": "rtt/2023-01.zip",
+    "retrieved_at": "2026-07-12T11:25:31+00:00",
+    "sha256": "a8a751cfab40513ab46ed8b65e700f35903834d5375912288615379dc09aa3aa",
+    "size": 3694680,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/08/Full-CSV-data-file-Jan23-revised-ZIP-3609K.zip"
+  },
+  "rtt/2023-02": {
+    "local": "rtt/2023-02.zip",
+    "retrieved_at": "2026-07-12T11:25:31+00:00",
+    "sha256": "8ef8ff89d05638b4fcc3ae73a2a4ab47eb96cccc8161a1dd96d69ed8cd914f36",
+    "size": 3874350,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/08/Full-CSV-data-file-Feb23-revised-ZIP-3784K.zip"
+  },
+  "rtt/2023-03": {
+    "local": "rtt/2023-03.zip",
+    "retrieved_at": "2026-07-12T11:25:32+00:00",
+    "sha256": "257f9054beb26169178bac9f539d0e021bf4abdbb06204d0fcf23e0708e784cb",
+    "size": 3674951,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/08/Full-CSV-data-file-Mar23-revised-ZIP-3589K.zip"
+  },
+  "rtt/2023-04": {
+    "local": "rtt/2023-04.zip",
+    "retrieved_at": "2026-07-12T11:23:15+00:00",
+    "sha256": "1f84981560dcb79662a96f4f548a1cbcad958edf635d443c01e3bb49c8895e19",
+    "size": 3611832,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/06/Full-CSV-data-file-Apr23-ZIP-3528K-36960.zip"
+  },
+  "rtt/2023-05": {
+    "local": "rtt/2023-05.zip",
+    "retrieved_at": "2026-07-12T11:23:16+00:00",
+    "sha256": "ad39b7485bfb531eb3a8882a931da3be4a0da082bf65e28e163a1d5bcc8446ce",
+    "size": 3713386,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/01/Full-CSV-data-file-May23-ZIP-3627K-revised.zip"
+  },
+  "rtt/2023-06": {
+    "local": "rtt/2023-06.zip",
+    "retrieved_at": "2026-07-12T11:23:16+00:00",
+    "sha256": "ddf1d174abf446eff4307f849ac5ca3a777e51fee221f8e753adfcf6b8560cea",
+    "size": 3746325,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/08/Full-CSV-data-file-Jun23-ZIP-3659K-64970.zip"
+  },
+  "rtt/2023-07": {
+    "local": "rtt/2023-07.zip",
+    "retrieved_at": "2026-07-12T11:23:16+00:00",
+    "sha256": "f0c2567c5ae02a16724c95b4e1dc55e5089f433790a2710de71449c6f15b7c36",
+    "size": 3709306,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/01/Full-CSV-data-file-Jul23-ZIP-3623K-revised.zip"
+  },
+  "rtt/2023-08": {
+    "local": "rtt/2023-08.zip",
+    "retrieved_at": "2026-07-12T11:23:16+00:00",
+    "sha256": "dc0ece496b80d439bf9d19621644ac981939a17eada28eb00753b6ddaf880aed",
+    "size": 3732582,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/01/Full-CSV-data-file-Aug23-ZIP-3646K-revised.zip"
+  },
+  "rtt/2023-09": {
+    "local": "rtt/2023-09.zip",
+    "retrieved_at": "2026-07-12T11:23:17+00:00",
+    "sha256": "de5949d96492a66364ebfa69f198be3faa788721debeb6238a43b0c50a0adc5b",
+    "size": 3741036,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/01/Full-CSV-data-file-Sep23-ZIP-3654K-revised.zip"
+  },
+  "rtt/2023-10": {
+    "local": "rtt/2023-10.zip",
+    "retrieved_at": "2026-07-12T11:23:17+00:00",
+    "sha256": "fa76b071a544bdc072898cd86ccb2cc3990a3a73acd5697822e4bc103c633f9b",
+    "size": 4021266,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/07/Full-CSV-data-file-Oct23-ZIP-3928K-revised.zip"
+  },
+  "rtt/2023-11": {
+    "local": "rtt/2023-11.zip",
+    "retrieved_at": "2026-07-12T11:23:17+00:00",
+    "sha256": "6cfb6d0971cd51ad6d0f6770dc6e697cf742f28d321d531f4f85b9f5f8cc6c4a",
+    "size": 4046394,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/07/Full-CSV-data-file-Nov23-ZIP-3952K-revised.zip"
+  },
+  "rtt/2023-12": {
+    "local": "rtt/2023-12.zip",
+    "retrieved_at": "2026-07-12T11:23:17+00:00",
+    "sha256": "b14a5bf401ce184ff7ca5d3f51eb57fb1f998a8425172dcb824c849038ec9232",
+    "size": 3890897,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/07/Full-CSV-data-file-Dec23-ZIP-3800K-revised.zip"
+  },
+  "rtt/2024-01": {
+    "local": "rtt/2024-01.zip",
+    "retrieved_at": "2026-07-12T11:23:18+00:00",
+    "sha256": "4d331d2f2b39c5422ce37ec8b54266be180275836c6943c2f2e48418b03ecc6d",
+    "size": 4037394,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/07/Full-CSV-data-file-Jan24-ZIP-3943K-revised.zip"
+  },
+  "rtt/2024-02": {
+    "local": "rtt/2024-02.zip",
+    "retrieved_at": "2026-07-12T11:23:18+00:00",
+    "sha256": "788042589c2c5de5be99635b331b4dd177f9381be05689fe4e37f1b485375d6c",
+    "size": 3973538,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/07/Full-CSV-data-file-Feb24-ZIP-3881K-revised.zip"
+  },
+  "rtt/2024-03": {
+    "local": "rtt/2024-03.zip",
+    "retrieved_at": "2026-07-12T11:23:18+00:00",
+    "sha256": "c45138dde227906722d8167a7fa6c26fa15d3cc6fc780c86c216a7c215bce06d",
+    "size": 3923954,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/07/Full-CSV-data-file-Mar24-ZIP-3832K-revised.zip"
+  },
+  "rtt/2024-04": {
+    "local": "rtt/2024-04.zip",
+    "retrieved_at": "2026-07-12T11:23:18+00:00",
+    "sha256": "ea93464629bc37f2472e731ba0b92107969908b393579b907754aed37a511cb8",
+    "size": 3606617,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/02/Full-CSV-data-file-Apr24-ZIP-4M-revised.zip"
+  },
+  "rtt/2024-05": {
+    "local": "rtt/2024-05.zip",
+    "retrieved_at": "2026-07-12T11:23:19+00:00",
+    "sha256": "6b29f627cd7fe09a6654f4dd6e212ba995ace1cecd2789efe846a67a157ea456",
+    "size": 3607786,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/02/Full-CSV-data-file-May24-ZIP-4M-revised.zip"
+  },
+  "rtt/2024-06": {
+    "local": "rtt/2024-06.zip",
+    "retrieved_at": "2026-07-12T11:23:19+00:00",
+    "sha256": "f02e713903d02816ab262d35818a8b13652a50858db500780380ece0e210ad84",
+    "size": 3590635,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/02/Full-CSV-data-file-Jun24-ZIP-4M-revised.zip"
+  },
+  "rtt/2024-07": {
+    "local": "rtt/2024-07.zip",
+    "retrieved_at": "2026-07-12T11:23:19+00:00",
+    "sha256": "133d61b81755815d4c8e8b47ec32a6679fc5b9ede5b00ef26e8d1dff52223a11",
+    "size": 3647842,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/02/Full-CSV-data-file-Jul24-ZIP-4M-revised.zip"
+  },
+  "rtt/2024-08": {
+    "local": "rtt/2024-08.zip",
+    "retrieved_at": "2026-07-12T11:23:19+00:00",
+    "sha256": "589c8007b849ddb011d8a7846f480861bbd38df729287afd07fe9bfe404434e5",
+    "size": 3606755,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/02/Full-CSV-data-file-Aug24-ZIP-4M-revised.zip"
+  },
+  "rtt/2024-09": {
+    "local": "rtt/2024-09.zip",
+    "retrieved_at": "2026-07-12T11:23:20+00:00",
+    "sha256": "cc88adf7df975eff9cd95c95ee773e2afbb019c94d0744514b70b74016519e0d",
+    "size": 3635692,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/02/Full-CSV-data-file-Sep24-ZIP-4M-revised.zip"
+  },
+  "rtt/2024-10": {
+    "local": "rtt/2024-10.zip",
+    "retrieved_at": "2026-07-12T11:23:20+00:00",
+    "sha256": "68f69c5c11fa4c7eb40b02746fa5a6b8042f27a95beaf11a5245b99332af07b8",
+    "size": 3786348,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/07/Full-CSV-data-file-Oct24-ZIP-4M-revised.zip"
+  },
+  "rtt/2024-11": {
+    "local": "rtt/2024-11.zip",
+    "retrieved_at": "2026-07-12T11:23:20+00:00",
+    "sha256": "558923a9bc82748523430228b7b1a89d3bb9d81357feae5cc2496193708cea83",
+    "size": 3737216,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/07/Full-CSV-data-file-Nov24-ZIP-4M-revised.zip"
+  },
+  "rtt/2024-12": {
+    "local": "rtt/2024-12.zip",
+    "retrieved_at": "2026-07-12T11:23:20+00:00",
+    "sha256": "e39ad654bc1ab303b344037dd16d3fa4d3c2ee8c03931d53ef47341382f860cb",
+    "size": 3646614,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/07/Full-CSV-data-file-Dec24-ZIP-4M-revised.zip"
+  },
+  "rtt/2025-01": {
+    "local": "rtt/2025-01.zip",
+    "retrieved_at": "2026-07-12T11:23:20+00:00",
+    "sha256": "b5073b698e33df82a87798c12fc3afe6bc683b9a8c5235e46d2b64bb1245f6f3",
+    "size": 3755766,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/07/Full-CSV-data-file-Jan25-ZIP-4M-revised.zip"
+  },
+  "rtt/2025-02": {
+    "local": "rtt/2025-02.zip",
+    "retrieved_at": "2026-07-12T11:23:21+00:00",
+    "sha256": "7b3b57ac8b93f063d1f2c08e705daa42595aaae87619b88f71edf6128a115d22",
+    "size": 3679163,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/07/Full-CSV-data-file-Feb25-ZIP-4M-revised.zip"
+  },
+  "rtt/2025-03": {
+    "local": "rtt/2025-03.zip",
+    "retrieved_at": "2026-07-12T11:23:21+00:00",
+    "sha256": "9f2c5608ebfb11d6f07815346c365f536b2c15dcca5f59ccc71a98cb3ec6761c",
+    "size": 3678378,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/07/Full-CSV-data-file-Mar25-ZIP-4M-revised.zip"
+  },
+  "rtt/2025-04": {
+    "local": "rtt/2025-04.zip",
+    "retrieved_at": "2026-07-12T11:23:21+00:00",
+    "sha256": "f3c71481be0b5a38916f14aa69bbbcc61156337a47a849a251f30ef99cfacca1",
+    "size": 3658278,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/02/Full-CSV-data-file-Apr25-ZIP-4M-revised.zip"
+  },
+  "rtt/2025-05": {
+    "local": "rtt/2025-05.zip",
+    "retrieved_at": "2026-07-12T11:23:21+00:00",
+    "sha256": "ffcef0fa72e34aa6dc22c7871f3afe3c6f496b763b1f3f04d40de99971232db7",
+    "size": 3635642,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/02/Full-CSV-data-file-May25-ZIP-4M-revised.zip"
+  },
+  "rtt/2025-06": {
+    "local": "rtt/2025-06.zip",
+    "retrieved_at": "2026-07-12T11:23:22+00:00",
+    "sha256": "457b1380ec57aad1b0065fc1d6ea9ad40258484a697ee768771f33d30fca8403",
+    "size": 3676726,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/02/Full-CSV-data-file-Jun25-ZIP-4M-revised.zip"
+  },
+  "rtt/2025-07": {
+    "local": "rtt/2025-07.zip",
+    "retrieved_at": "2026-07-12T11:23:22+00:00",
+    "sha256": "3ab19d09ce7e683c46074a3349004b73a2bd0a059e4d1b4fd46cf64a4405bdb8",
+    "size": 3670316,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/02/Full-CSV-data-file-Jul25-ZIP-4M-revised-2.zip"
+  },
+  "rtt/2025-08": {
+    "local": "rtt/2025-08.zip",
+    "retrieved_at": "2026-07-12T11:23:22+00:00",
+    "sha256": "bf39a5402969ce6103e335dbfe05636cdaef552df7602c8035a79b4a58557be5",
+    "size": 3564657,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/02/Full-CSV-data-file-Aug25-ZIP-4M-revised-2.zip"
+  },
+  "rtt/2025-09": {
+    "local": "rtt/2025-09.zip",
+    "retrieved_at": "2026-07-12T11:23:22+00:00",
+    "sha256": "acd46c7f1451f992a4ac9c73bff1e00ac5311001111b666921d44c857a301934",
+    "size": 3686670,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/02/Full-CSV-data-file-Sep25-ZIP-4M-revised.zip"
+  },
+  "rtt/2025-10": {
+    "local": "rtt/2025-10.zip",
+    "retrieved_at": "2026-07-12T11:23:23+00:00",
+    "sha256": "e12eb4af906f30fa70c8de494ea8fe8a563156e3d0631e47d0df4dc0f2f41fb8",
+    "size": 3672768,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/12/Full-CSV-data-file-Oct25-ZIP-4M-SrRW6y.zip"
+  },
+  "rtt/2025-11": {
+    "local": "rtt/2025-11.zip",
+    "retrieved_at": "2026-07-12T11:23:23+00:00",
+    "sha256": "11e1d768ae2919f8c1943e30ff0354f8df71f96af188e4b99c1d9888d397dc62",
+    "size": 3579354,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/01/Full-CSV-data-file-Nov25-ZIP-4M-1Xmjkk.zip"
+  },
+  "rtt/2025-12": {
+    "local": "rtt/2025-12.zip",
+    "retrieved_at": "2026-07-12T11:23:23+00:00",
+    "sha256": "d8645471fd51e2d869db66bfd46d4105f7fea371bb59e3afec9e02ea9181df1e",
+    "size": 3528271,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/07/Full-CSV-data-file-Dec25-ZIP-3M-revised.zip"
+  },
+  "rtt/2026-01": {
+    "local": "rtt/2026-01.zip",
+    "retrieved_at": "2026-07-12T11:23:23+00:00",
+    "sha256": "392fa3583f10d2a5ee664850a54c0d60f501e83406a68a4d7617284bcf4bc465",
+    "size": 3630829,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/03/Full-CSV-data-file-Jan26-ZIP-4M-WL5BiP.zip"
+  },
+  "rtt/2026-02": {
+    "local": "rtt/2026-02.zip",
+    "retrieved_at": "2026-07-12T11:23:24+00:00",
+    "sha256": "fe6e012839a4e5676dc55c854e50bb6ba4c31de166aeee1882a1704c53304ec8",
+    "size": 3586742,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/04/Full-CSV-data-file-Feb26-ZIP-4M-9j03fJT.zip"
+  },
+  "rtt/2026-03": {
+    "local": "rtt/2026-03.zip",
+    "retrieved_at": "2026-07-12T11:23:24+00:00",
+    "sha256": "87f8ead7be83f5c63fafac1cd441909b7306b7625aeda2dcf019ec949118fa80",
+    "size": 3580888,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/07/Full-CSV-data-file-Mar26-ZIP-3M-revised.zip"
+  },
+  "rtt/2026-04": {
+    "local": "rtt/2026-04.zip",
+    "retrieved_at": "2026-07-12T11:23:24+00:00",
+    "sha256": "d21b6444bd9f6a2b655619f532af9c528c3927226019127b3c467c2cf7717410",
+    "size": 3494764,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/06/Full-CSV-data-file-Apr26-ZIP-3M-X7gGnn.zip"
+  },
+  "rtt/2026-05": {
+    "local": "rtt/2026-05.zip",
+    "retrieved_at": "2026-07-12T11:23:24+00:00",
+    "sha256": "b99c134c078f3d0e88238b32778ee0c24f96887387e30321ccf5ea78c3fa46eb",
+    "size": 3442357,
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/07/Full-CSV-data-file-May26-ZIP-3M-3jBgba.zip"
+  },
+  "vacancy/tables": {
+    "local": "vacancy/vacancy_tables.xlsx",
+    "retrieved_at": "2026-07-12T11:23:26+00:00",
+    "sha256": "835a038c96c8c40739ed066324fe3e8b02f3e3d28488ee0992028737c429f1a0",
+    "size": 1363354,
+    "url": "https://files.digital.nhs.uk/47/2236C5/nhs-vac-stats-apr15-mar26-eng-tables.xlsx"
+  },
+  "weather/hadcet_monthly": {
+    "local": "weather/hadcet_monthly.txt",
+    "retrieved_at": "2026-07-12T11:22:52+00:00",
+    "sha256": "8b7a5f48fac0833932cfe7d823ce70764dabe7175cfec99c6f2dfeac6932c8e9",
+    "size": 36713,
+    "url": "https://www.metoffice.gov.uk/hadobs/hadcet/data/meantemp_monthly_totals.txt"
+  },
+  "weather/haduk_england_tmean": {
+    "local": "weather/haduk_england_tmean.txt",
+    "retrieved_at": "2026-07-12T11:22:52+00:00",
+    "sha256": "e22c79b07951f148e81baf6b75b0d90b14736b092921e0d7a2d2ac4aaab1395f",
+    "size": 18835,
+    "url": "https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Tmean/date/England.txt"
+  }
+}
