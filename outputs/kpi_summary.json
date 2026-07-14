@@ -1,0 +1,17 @@
+{
+  "latest_month": 202606,
+  "latest_type1_performance": 0.6103497812968607,
+  "latest_att_type1": 1461113,
+  "rtt_latest_month": 202605,
+  "rtt_waiting_list": 7184233.0,
+  "rtt_pct_within_18wk": 0.6550479362236721,
+  "equity": {
+    "pearson_r": 0.128838774953135,
+    "ci95": [
+      -0.051597358101301206,
+      0.3011291652199677
+    ],
+    "n_trusts": 120
+  },
+  "n_type1_trusts_ranked": 120
+}
